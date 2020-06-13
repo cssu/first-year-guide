@@ -15,9 +15,9 @@ By: Anujan M, Clara S, and the CSSU Team
 
 First and foremost, on behalf of the Computer Science Student Union (CSSU), we would like to congratulate students who have received an offer of admission to Computer Science at the University of Toronto St. George campus. (If not, well, we hope you are considering it – or we hope that you get an acceptance!). We're happy to have you!
 
-This is a collection of Frequently Asked Question (FAQs) which we think all first-year undergraduates (and everyone in the program, in general) should know. 
+This is a collection of Frequently Asked Question (FAQs) which we think all first-year undergraduates (and everyone in the program, in general) should know. This is part of a multi part project to curate resources for the entire CS community some who's links will be in this guide.
 
-University can be daunting, especially in your first-year. This year especially with the pandemic affecting all aspects of our lives mentally and physically. We hope this guide gives you some information and tips on how to make sure that you are successful on your first-year here (and we hope this guide makes you laugh along the way). If there is anything you want to add or edit on this guide, please send the CSSU a quick email.
+University can be daunting, especially in your first-year. This year especially with the pandemic affecting all aspects of our lives mentally and physically. We hope this guide gives you some information and tips on how to make sure that you are successful on your first-year here (and we hope this guide makes you laugh along the way). If there is anything you want to add or edit on this guide, please send the CSSU a quick email or make a PR on the Github Repo. So strap in this is pretty long feel free to read in chunks or binge.
 
 ## Table of Contents
 1. [What is the CSSU?](#what-is-the-cssu) (Ice Cream Sandwiches and Video Games)
@@ -284,10 +284,12 @@ For more info visit the [CS Department Admissions Page](http://web.cs.toronto.ed
 
 Data Science is a recently added specialty that is co-offered by the Department of Statistics and Computer Science. As quoted from the [calendar](https://fas.calendar.utoronto.ca/section/Computer-Science#programs_view-block_2-0) The Data Science Specialist program prepares students for work in the Data Science industry or government and for graduate studies in Data Science, Computer Science, or Statistics. Students in the program will benefit from a range of advanced courses in Computer Science and Statistics offered by the University of Toronto, as well as from a sequence of three integrative courses designed especially for the program.
 
-There are specific admission requirements that first years must complete on top of the existing CS requirements.
-    CSC110Y1 and CSC111H1 or CSC148 and CSC165
-    MAT137Y1 or​ MAT157Y1
-    STA130H1 **Difference**
+There are specific admission requirements that first years must complete on top of the existing CS requirements.  
+
+>    CSC110Y1 and CSC111H1 or CSC148 and CSC165  
+>    MAT137Y1 or​ MAT157Y1  
+>    STA130H1 **Difference**  
+
 To ensure that students admitted to the program will be successful, applicants will not be considered for admission with a grade lower than 70% in CSC110Y1, CSC148, CSC165, MAT137Y1, and STA130H1, or lower than 77% in CSC111H1. ( MAT157Y1 grades will be adjusted to account for the course's greater difficulty.) Obtaining these minimum grades does not guarantee admission to the program.
 
 If you were admitted as an in-stream computer science student you have an additional benefit. **At least 20 spots** will be reserved for in-stream CS first years who complete the requirements. In other words out of the in-stream first years that apply for the data science specialist the top 20 (or more) will be admitted to the specialist. The rest may get in if their grades are competitive (like non-stream students). The rest will be combined with the out of stream applicants and the spots will be given in order from highest to least average like the CS out of stream selection process. Out of stream students will also need to complete the supplemental application like for CS.
@@ -309,9 +311,9 @@ Another thing which we want to mention is that collaboration and teamwork can he
 
 Having a school/life balance is especially important when you’re in university. While there may be an immense pressure from academics, you should make sure you give time to yourself as well. You can check out this huge list of clubs and student groups which you can join [check this link](https://www.ulife.utoronto.ca/), or visit the clubs fair during the first week of classes. For more CS related clubs, do check our list of CS clubs [here](https://cssu.ca/clubs/). 
 
-To hear about experiences from two clubs WICS and UTCG take a listen to these two episodes of Room 2250:
-[WICS](https://open.spotify.com/episode/0miTXJpfrMTo1XsnRjh4yQ?si=xC03o9NUSb-U-eBb4gnapg)
-[UTCG](https://open.spotify.com/episode/1r9rMTmdCu3GRcFFSDAQfr)
+To hear about experiences from two clubs WICS and UTCG take a listen to these two episodes of Room 2250:  
+[WICS](https://open.spotify.com/episode/0miTXJpfrMTo1XsnRjh4yQ?si=xC03o9NUSb-U-eBb4gnapg)  
+[UTCG](https://open.spotify.com/episode/1r9rMTmdCu3GRcFFSDAQfr)  
 
 You might also want to consider joining a FLC (First Year Learning Community). Basically, you get a group of other students who are taking the same Computer Science courses as you, and you get an upper-year mentor along with department members who will help guide you though your courses, uni, and life in general. It helps you make some friends, be in the know, and get some real mentorship. Check out more info and apply [here](https://learningcommunities.utoronto.ca/index.php/ex-1/find-your-flc/computer-science/).
 
@@ -321,6 +323,7 @@ There are also lots of events which you can attend and participate in – follow
 
 There are a lot of hackathons which you can join (for those of you who don’t know what a hackathon is, it’s basically a 1-3 day event where you and your team get together to build something, like an app which solves a real-world problem, or just something which you think is really cool in general - and you can win prizes for it and get free food!!!) Its free about 95% of the time, and you get the opportunity to meet lots of company reps. UofTHacks is our premier hackathon, so be on the lookout for more details later this year. Also, check out [MLH](mlh.com) for a full list of hackathons both in Canada and around the world (A lot of the US ones are popular as well, if you’re comfortable with going to the United States for a weekend). Remember, you don’t have to be experienced to go attend a hackathon - there are lots of workshops offered throughout these events, and you can always just go for the experience, which we can confirm is awesome.
 
+<div class="tenor-gif-embed" data-postid="16684096" data-share-method="host" data-width="100%" data-aspect-ratio="1.7785714285714287"><a href="https://tenor.com/view/kinda-funny-gary-whitta-make-moves-standing-still-motivation-gif-16684096">Kinda Funny Gary Whitta GIF</a> from <a href="https://tenor.com/search/kindafunny-gifs">Kindafunny GIFs</a></div><script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 ---
 
 ## Jobs, Internships and PEY Co-op
@@ -372,6 +375,8 @@ There are also lots of scholarships available for you, so you should definitely 
 ## Parting Words
 
 Well, you made it to the end of the guide! If you read all of it, congratulations and thank you. If not, well, take a break and come back to read the rest. If you just skipped to the bottom, go back to the top and read (why would you skip to the end, thought there would be a summary of the main points?)
+
+![ask questions](asking_questions.png)
 
 We would like to thank all of the people who helped contribute to this guide, making this a possibility.
 
