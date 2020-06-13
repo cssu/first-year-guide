@@ -323,7 +323,8 @@ There are also lots of events which you can attend and participate in – follow
 
 There are a lot of hackathons which you can join (for those of you who don’t know what a hackathon is, it’s basically a 1-3 day event where you and your team get together to build something, like an app which solves a real-world problem, or just something which you think is really cool in general - and you can win prizes for it and get free food!!!) Its free about 95% of the time, and you get the opportunity to meet lots of company reps. UofTHacks is our premier hackathon, so be on the lookout for more details later this year. Also, check out [MLH](mlh.com) for a full list of hackathons both in Canada and around the world (A lot of the US ones are popular as well, if you’re comfortable with going to the United States for a weekend). Remember, you don’t have to be experienced to go attend a hackathon - there are lots of workshops offered throughout these events, and you can always just go for the experience, which we can confirm is awesome.
 
-<div class="tenor-gif-embed" data-postid="16684096" data-share-method="host" data-width="100%" data-aspect-ratio="1.7785714285714287"><a href="https://tenor.com/view/kinda-funny-gary-whitta-make-moves-standing-still-motivation-gif-16684096">Kinda Funny Gary Whitta GIF</a> from <a href="https://tenor.com/search/kindafunny-gifs">Kindafunny GIFs</a></div><script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+![if your not making moves](https://media1.tenor.com/images/b52e33167d9104c39219c9d9ba90b2b2/tenor.gif?itemid=16684096)
+
 ---
 
 ## Jobs, Internships and PEY Co-op
