@@ -39,7 +39,7 @@ So since this guide is made in coordination with the CSSU, we would like to intr
 
 ![ice-cream sandwich GIF](https://media.giphy.com/media/7FDtvM9nIN6Cs/giphy.gif)
 
-CSSU also hosts a variety of events, including Games Night, where students have the opportunity to socialize with each other over games of all kinds, all night long. They also have lots of video games and consoles in the office, from the Gamecube (for Smash Bros.) to the Switch (Super Smash Bros Ultimate) and an Xbox One and Playstation 3 for you to play with your friends, or make new ones. Feel free to drop by, say hello, and introduce yourself! 
+CSSU also hosts a variety of events, including Games Night, where students have the opportunity to socialize with each other over games of all kinds, all night long. They also have lots of video games and consoles in the office, from the Gamecube (for Smash Bros.) to the Switch (Super Smash Bros Ultimate) and an Xbox One and Playstation 3 for you to play with your friends, or make new ones. Feel free to drop by, say hello, and introduce yourself! You can sign-up for their email newsletter that will contain information on upcoming events [here](https://cssu.us10.list-manage.com/subscribe/post?u=987f258df56af54075e2c9696&amp;id=6217e7727d)  
 
 ![smash bros](https://media.giphy.com/media/m8XguqDisAIgag7oqT/giphy.gif)
 
@@ -174,12 +174,16 @@ Before the pandemic this was a question with no definitive answer. Technically, 
 
 Due to the pandemic this is a new reality. You may decide (or be forced to) take courses online, (maybe for an entire semester or the year). This is a significant change and needs its own conversation. Online learning may be new for a most of you (you most likely had a bit of experience with it earlier this year). Here are a few tips and tricks to help manage online learning.
 
-1. Find a workspace that works for you
+1. Find a workspace that works for you  
    Make sure that you have a space where you can work productively, if needed away from distractions, loud noises and that is comfortable. Having a routine and constant space that is your study space will help to focus and concentrate along with having all your school stuff in one place.
-2. Plan out your time
+2. Plan out your time  
    Make sure you have a schedule and keep to it. Some of your courses may be synchronous and "force" you to attend at a certain time, use that to your advantage. Others may have their materials as VODs and these courses are the ones you need to make sure your not falling behind on. Set specific times that you'll work on each course. For courses that upload materials plan your study times around the material posting schedule. **Stay Alert for messages from your courses**, check email regularly and Piazza/whatever discussion forum the course uses.
-3. Set Alarms
+3. Set Alarms  
    With technology you can harness the power of nagging alerts and calendars to make sure you remember your classes and assignments. When you get your course syllabus make a note of all the important dates like assignments and tests on your calendar. If your like a lot of people you might lose track of time when your concentrating causing you to miss a class or worse a test. Make sure you have alerts and make a habit to check your calendar every week and every day to make sure your on top of things.
+4. Make use of the university's online programming  
+   [Hart House](https://harthouse.ca) offers online fitness classes on Zoom, and also writing and art community activities. When campus is open they have a gym and host lots of activities.  
+   On [CLNX](clnx.utoronto.ca), you can register for Virtual Study Hub so that you know that you are not alone studying. This can also increase your motivation and concentration. VIrtual Study Hubs take place from Monday to Sunday from morning to afternoon.  
+   Look in your college's newsletters there may be virtual programming for their members.  
 
 #### Tips
 
@@ -352,6 +356,7 @@ Click on any of the links to go there:
 - [CSSU Resources Github](https://github.com/cssu/)
 - [UofT Reddit](https://www.reddit.com/r/UofT/)
 - [CS Career Questions Reddit](https://www.reddit.com/r/cscareerquestions/)
+- [Signup for the CSSU Newsletters](https://cssu.us10.list-manage.com/subscribe/post?u=987f258df56af54075e2c9696&amp;id=6217e7727d)
 - Also, read the department emails that you get as they have awesome information.
 
 **_Disclaimer_**: On Reddit, the most vocal accounts often tend to be those of students who are misinformed. You can still find lots of good information and discussions on the UofT subreddit, but you need to learn how to filter through the misinformed comments and avoid the trolls. Always make sure you are well informed.
