@@ -4,11 +4,11 @@
 
 By: Anujan M
 
-Authors Note: After the huge success of the original version of the guide I thought it was a good idea to go through a full edit of the guide and bring it up to date with new content (especially since there has been a lot of changes). (That also includes GIFs and links to Podcast Episodes hosted by yours truly).
-As much as I would like to say this guide is accurate (yes, disclaimer time) this is by no means an "official" guide and is written solely from the perspective of students like myself with sources to official documentation. You should make sure to consult with the Undergrad Office or your college registrar to confirm your understanding of these topics and to verify your plans. 
+Authors Note: After the huge success of the original version of the guide I thought it was a good idea to go through a full edit of the guide and bring it up to date with new content (especially since there has been a lot of changes). (That also includes GIFs and links to Podcast Episodes hosted by yours truly).  
+As much as I would like to say this guide is accurate (yes, disclaimer time) this is by no means an "official" guide and is written solely from the perspective of students like myself with sources to official documentation. You should make sure to consult with the Undergrad Office or your college registrar to confirm your understanding of these topics and to verify your plans.  
 Hope you gain something and if you see something wrong raise an issue or even better change it and make a PR. Thanks for reading and I wish you the best in your CS journey!
 
-Original Credits for 2018 Version
+Original Credits for 2018 Version  
 By: Anujan M, Clara S, and the CSSU Team
 
 ![helloGif](https://media.giphy.com/media/kiIzRA15EpUsOuiK9J/giphy.gif)
@@ -50,19 +50,19 @@ They also support CS Frosh, which happens at the beginning of the year for stude
 
 **ACORN**
 
-ACORN is your one stop shop for all the official things you need to do. From enrolling in courses and accessing your final grades to finding your tuition bills, ACORN is your go to site.
+[ACORN](acorn.utoronto.ca) is your one stop shop for all the official things you need to do. From enrolling in courses and accessing your final grades to finding your tuition bills, ACORN is your go to site.
 
 **_ProTip_**: You can plan your courses on ACORN and save them to your "cart", from which you can quickly enrol when it's time to enrol in courses.
 
 
 **QUERCUS** (A.K.A. Portal, or the most unpronounceable name on campus)
 
-QUERCUS is the new system (now two years old) which most courses use to provide lecture slides, important dates, and course updates (previously, it was called Blackboard and some people still do call it that). You can also submit your assignments, and sometimes access your term marks (tests, quizzes, assignments etc.) through this system. CS courses tend to use their own sites in conjunction with MarkUs (see below), but most other courses are adamant on using it (though some courses use other tools as well, so you should make sure to check the syllabus of each one of your courses to see what they are using). If you've used D2L or Blackboard, then you'll find that QUERCUS is a bit familiar. 
+[QUERCUS](q.utoronto.ca) is the new system (now two years old) which most courses use to provide lecture slides, important dates, and course updates (previously, it was called Blackboard and some people still do call it that). You can also submit your assignments, and sometimes access your term marks (tests, quizzes, assignments etc.) through this system. CS courses tend to use their own sites in conjunction with MarkUs (see below), but most other courses are adamant on using it (though some courses use other tools as well, so you should make sure to check the syllabus of each one of your courses to see what they are using). If you've used D2L or Blackboard, then you'll find that QUERCUS is a bit familiar. 
 
 
 **MarkUs**
 
-MarkUs is where you'll be submitting your work and getting feedback and marks for most (if not all) CS courses. Make sure that you can login to the site as soon as it’s available in order to avoid hassles which will undoubtedly arise if you can't login on the day your assignments are due.
+[MarkUs](markus.teach.cs.toronto.edu) is where you'll be submitting your work and getting feedback and marks for most (if not all) CS courses. Make sure that you can login to the site as soon as it’s available in order to avoid hassles which will undoubtedly arise if you can't login on the day your assignments are due.
 
 **_ProTip_**: Always submit assignments early, since the system tends to get overloaded and is known to get extremely slow or even crash during the last few minutes before the deadline. It’s your personal responsibility to submit early, and you should keep in mind that multiple submissions are allowed for most courses. This means only your final submission will be graded, even if you submit various drafts of your work prior to the deadline. This allows you to edit and submit your work as many times as you see fit until the deadline.
 
@@ -109,13 +109,13 @@ Click on the title to watch the video on Youtube (It does have subtitles so yay)
 
 [**Calvin’s Insider Tips**](https://www.youtube.com/watch?v=RW_Mr85HFto)
 
-A good tip from u/zyjerry: You can access course evaluations submitted by past students for more courses on Quercus. Just have to login (with your joinID which will soon become your UTORid) and select course evaluations from the drop down menu. You cannot see specific comments written by students, but you can see the numerical stats. Great way to learn about electives.
+A good tip from u/zyjerry: You can access course evaluations submitted by past students for more courses on [Quercus](q.utoronto.ca). Just have to login (with your joinID which will soon become your UTORid) and select course evaluations from the drop down menu. You cannot see specific comments written by students, but you can see the numerical stats. Great way to learn about electives.
 
 For more important videos with more tips and information about university and course enrollment check out the ArtSci Youtube channel [here](https://www.youtube.com/channel/UCXRrb_NqDU5IN2ensLpWbcg/videos) and for an interview with Lana about her achievements and advice check out [this episode of Room 2250](https://open.spotify.com/episode/3HZ6rqlLT1n07o1Rn2xLzQ).
 
 #### **In Stream** Schedule Notes
 
-Visit [here](https://web.cs.toronto.edu/a-new-first-year-experience) for more information about the new courses.
+Visit [here](https://web.cs.toronto.edu/a-new-first-year-experience) for more information about the new courses and the new first year experience.
 
 For students in-stream there is a special course selection note that is different from past years. (Technically its the first time that a course like this has been offered in a fall semester). CSC110Y1 is a 1 semester course but its a full credit course. This means that its the equivalent of 2 normal *half year* courses, there will be double the amount of lecture time and you'll earn a full credit on completion of the course. CSC111 is a normal half year credit course that you'll take in the winter semester.
 
@@ -381,9 +381,9 @@ Well, you made it to the end of the guide! If you read all of it, congratulation
 
 We would like to thank all of the people who helped contribute to this guide, making this a possibility.
 
-Original Credits Follow:
+Original Credits Follow:  
 Lead author Anujan M for coming up with the idea of building this guide, and for researching and writing it in a informative, approachable and enjoyable way. Thanks to Nina from the CS Communications Office and Francois Pitt, Associate Professor, Teaching Stream and Associate   Chair, Undergraduate for reviewing this guide for accuracy and correctness, though as much as we like to say this guide is accurate (yes, disclaimer time) this is by no means an official guide and is written solely from the perspective of students. You should make sure to consult with the UGO or your college registrar to confirm your understanding of these topics and to verify your plans. Also, a special thank you to the 2018-2019 CSSU President David Ansermino for his acceptance of this idea, and for letting Anujan run with it. Also, a huge thanks to co-author Clara S for her fantastic editing of this guide, for sharing real first hand tips and experiences, and for making this guide as comprehensive and grammatically correct as it can be. Without her, this guide would not be as nicely written as it is. 
 
-We hope this guide is informative to you, and if you think your peers would benefit from it too, please feel free to share it with them. If you have any suggestions or comments, feel free to email the CSSU [here](cssu@teach.cs.toronto.edu) or make a pull request/issue on the page in github [here](https://github.com/cssu/first-year-guide)
+We hope this guide is informative to you, and if you think your peers would benefit from it too, please feel free to share it with them. If you have any suggestions or comments, feel free to email the CSSU [here](cssu@teach.cs.toronto.edu) or make a pull request/issue on the page in Github [here](https://github.com/cssu/first-year-guide)
 
 We wish you all the best in your first year, and we hope you make the most out of your time here at U of T. We hope to see you at CS Frosh this year!
