@@ -4,13 +4,16 @@
 
 By: Anujan M
 
-Authors Note: After the huge success of the original version of the guide I thought it was a good idea to go through a full edit of the guide and bring it up to date with new content (especially since there has been a lot of changes). (That also includes GIFs and links to Podcast Episodes hosted by yours truly).  
+Authors Note:  
+After the huge success of the original version of the guide I thought it was a good idea to go through a full edit of the guide and bring it up to date with new content (especially since there has been a lot of changes in the program and that made the old guide almost irrelevant). (That also includes GIFs and links to Podcast Episodes hosted by yours truly).  
 As much as I would like to say this guide is accurate (yes, disclaimer time) this is by no means an "official" guide and is written solely from the perspective of students like myself with sources to official documentation. You should make sure to consult with the Undergrad Office or your college registrar to confirm your understanding of these topics and to verify your plans.  
-This is also a **WORK IN PROGRESS** we'll be adding and editing content throughout the summer as new information comes to light.
+This is also a **WORK IN PROGRESS** we'll be adding and editing content throughout the summer as new information comes to light.  
 Hope you gain something and if you see something wrong raise an issue or even better change it and make a PR. Thanks for reading and I wish you the best in your CS journey!
 
 Original Credits for 2018 Version  
 By: Anujan M, Clara S, and the CSSU Team
+
+---
 
 ![helloGif](https://media.giphy.com/media/kiIzRA15EpUsOuiK9J/giphy.gif)
 
@@ -155,6 +158,8 @@ Also look on the department’s [page](https://web.cs.toronto.edu/undergraduate/
 So yes, you’re thinking  – this is a CS guide! Why is it talking about math courses? Well, Mathematics and Computer Science go hand-in-hand (in particular, CSC165 and all the theory courses have a very mathematical approach). We are very much like our math counterparts on the theoretical side. This is the reason why you will have to pick a calculus course in your first-year, and your options are highly varied. 
 
 The courses offered are MAT135/136, MAT137, and MAT157. Either of these will satisfy the program requirements if you are entering from out of stream, but 137 and 157 are more theoretically heavy (and mandatory for those in-stream or wishing to do the Data Science Specialist), and great proof preparatory materials. If you are considering a math specialist, you should take MAT157 since the math specialist only accepts MAT157. Otherwise MAT137 will also prepare you for the level of proof material in CSC165 compared to MAT135/136 which do not cover proofs. MAT137 is also the calculus course which is recommended by the CS department (and is mandatory unless taking 157 for in-stream students). MAT135/136 are more computationally heavy courses which do not help you with proof practice, but they fulfill the program requirements nonetheless.
+
+While we talk about the Math Specialist if your interested in taking a Math Major or Specialist you must take MAT223(Major)/MAT240(Major or Specialist) and MAT224(Major)/MAT247(Major or Specialist) (Linear Algebra I and II) in your first year. For everyone else it is not mandatory to do in first year but you must take at least MAT223 as part of the CS program requirements (most do it in their 2nd year), and some CS 3rd and 4th year courses require it. For more info check out the [math section in the calendar](https://fas.calendar.utoronto.ca/section/Mathematics) for full details.  
 
 Do your due diligence and remember that if you take a more advanced course, you can normally try it out and drop down to the comparatively less dense math courses in the first 2 weeks (or more) with no penalty (the same doesn’t apply going up in difficulty). If you have any concerns, contact the math department. They have also provided some good prep work for first year calculus [here](https://www.math.toronto.edu/preparing-for-calculus/).
 
@@ -305,11 +310,18 @@ If you were admitted as an in-stream computer science student you have an additi
 
 ## Mental Health
 
-Mental health is extremely important, and taking care of yourself should be your first priority. A lot of students find program admission to be extremely stressful, and university in general is a giant leap from high school. Taking a reduced course load, or dropping down from hard courses to easier exclusions isn't something to be ashamed of, and you should definitely do it if you feel like it will benefit your mental health. On the same note, Accessibility Services is something you should check out if you are having any mental/physical health related problems which are getting in the way of your studies. It provides amazing support to those who are registered within it. You can get exam accommodations, extensions on assignments, and peer note takers (amongst many other things), and you will also get your own advisor whom you can go to if you are having problems coping with various aspects of University. They will direct you to many resources, and will help you out the best they can. You can check out their website [here](https://www.studentlife.utoronto.ca/as). Also, the [Health and Wellness Center](https://studentlife.utoronto.ca/hwc) has medical and mental health services to help students academically and personally if you need them. Make sure to make the most of the services which you have access to.
+Mental health is extremely important, and taking care of yourself should be your first priority. A lot of students find program admission to be extremely stressful, and university in general is a giant leap from high school. Taking a reduced course load, or dropping down from hard courses to easier exclusions isn't something to be ashamed of, and you should definitely do it if you feel like it will benefit your mental health. On the same note, Accessibility Services is something you should check out if you are having any mental/physical health related problems which are getting in the way of your studies. It provides amazing support to those who are registered within it. You can get exam accommodations, extensions on assignments, and peer note takers (amongst many other things), and you will also get your own advisor whom you can go to if you are having problems coping with various aspects of University. They will direct you to many resources, and will help you out the best they can. You can check out their website [here](https://www.studentlife.utoronto.ca/as). Also, the [Health and Wellness Center](https://studentlife.utoronto.ca/hwc) has medical and mental health services to help students academically and personally if you need them. Make sure to make the most of the services which you have access to. The UofT Reddit has a set of [Health and Wellness Resources](https://www.reddit.com/r/UofT/comments/6yxq87/health_wellness_resources/) as well.
 
 Another thing which we want to mention is that collaboration and teamwork can help a lot when it comes to dealing with the pressure of assignments and midterms. Yes, acceptance into the Computer Science program is competitive, but helping each other out and learning from each other goes a long way. Make friends!!! Everyone is scared, stressed out, and just wants to do well. Help each other out, and be kind to one another. Please don’t expect to go solo on all your classes – you are surrounded by some of the brightest students in your year, take advantage of that! University is a lot less stressful if you have like-minded friends to help you along the way.
 
 ![FriendshipGIF](https://media.giphy.com/media/10LKovKon8DENq/giphy.gif)
+
+### Finding your community
+
+The University of Toronto is a diverse campus with students from around the world and from every walk of life. People are unique and share different beliefs and values. There is a community for everyone. No matter your race, sexuality or religion you should feel like you belong. This is a two way street. Treat people with respect, accept opposing views, show compassion and kindness. The actions you take make our community more inclusive and more diverse. Racism exists, even at an academic institution like UofT, I hope that people reading this will think about this and their actions. If you feel like you don't belong there are groups, communities and good people on campus that can help you. Never lose faith in humanity.  
+
+![inspiration](https://media1.tenor.com/images/57d309947d1ce3cd90a26d136d0a3372/tenor.gif?itemid=17385373)
+
 ---
 
 ## How to Get Involved
@@ -356,7 +368,7 @@ Click on any of the links to go there:
 - [CSSU Resources Github](https://github.com/cssu/)
 - [UofT Reddit](https://www.reddit.com/r/UofT/)
 - [CS Career Questions Reddit](https://www.reddit.com/r/cscareerquestions/)
-- [Signup for the CSSU Newsletters](https://cssu.us10.list-manage.com/subscribe/post?u=987f258df56af54075e2c9696&amp;id=6217e7727d)
+- [Signup for the CSSU Newsletter](https://cssu.us10.list-manage.com/subscribe/post?u=987f258df56af54075e2c9696&amp;id=6217e7727d)
 - Also, read the department emails that you get as they have awesome information.
 
 **_Disclaimer_**: On Reddit, the most vocal accounts often tend to be those of students who are misinformed. You can still find lots of good information and discussions on the UofT subreddit, but you need to learn how to filter through the misinformed comments and avoid the trolls. Always make sure you are well informed.
@@ -367,7 +379,7 @@ Click on any of the links to go there:
 
 ![money gif](https://media.giphy.com/media/10YWA8gW28JbqM/giphy.gif)
 
-So CS is a deregulated fee program, so it’s more expensive. Since you’re not considered a “Computer Science Student” in first year, you don’t have to pay the deregulated fees. Instead, you pay regular “Arts Science” Fees. However, once you are accepted into the program, you will face the brunt of CS fees. Starting from the summer after your first year, your fees are about double the regular tuition fees. These deregulated fees aren't because U of T wants to take all your money, but rather because the government believes that you can get a job out of undergrad, in high demand, pay any student loans faster, so you can afford it (just like engineers and business students), wether thats true or not depends on your point of view (this decision was made in 1998 at the height of the DOT-COM era).
+So CS is a deregulated fee program, so it’s more expensive then "regulated" tuition. Since you’re not considered a “Computer Science Student” in first year, you don’t have to pay the deregulated fees. Instead, you pay regular regulated “Arts Science” Fees. However, once you are accepted into the program, you will face the brunt of CS and deregulated fees. Starting from the summer after your first year, your fees are about double the regular tuition fees. These deregulated fees aren't because U of T wants to take all your money, but rather because the government believes that you can get a job out of undergrad, in high demand, pay any student loans faster, so you can afford it (just like engineers and business students), wether thats true or not depends on your point of view (this decision was made in 1998 at the height of the DOT-COM era).
 
 However, you can still get loans, such as the Ontario Student Assistance Program (OSAP), which is open to Ontario residents who are Canadian citizens or permanent residents. 
 
@@ -387,9 +399,11 @@ Well, you made it to the end of the guide! If you read all of it, congratulation
 
 We would like to thank all of the people who helped contribute to this guide, making this a possibility.
 
-Original Credits Follow:  
-Lead author Anujan M for coming up with the idea of building this guide, and for researching and writing it in a informative, approachable and enjoyable way. Thanks to Nina from the CS Communications Office and Francois Pitt, Associate Professor, Teaching Stream and Associate   Chair, Undergraduate for reviewing this guide for accuracy and correctness, though as much as we like to say this guide is accurate (yes, disclaimer time) this is by no means an official guide and is written solely from the perspective of students. You should make sure to consult with the UGO or your college registrar to confirm your understanding of these topics and to verify your plans. Also, a special thank you to the 2018-2019 CSSU President David Ansermino for his acceptance of this idea, and for letting Anujan run with it. Also, a huge thanks to co-author Clara S for her fantastic editing of this guide, for sharing real first hand tips and experiences, and for making this guide as comprehensive and grammatically correct as it can be. Without her, this guide would not be as nicely written as it is. 
-
 We hope this guide is informative to you, and if you think your peers would benefit from it too, please feel free to share it with them. If you have any suggestions or comments, feel free to email the CSSU [here](cssu@teach.cs.toronto.edu) or make a pull request/issue on the page in Github [here](https://github.com/cssu/first-year-guide)
+
+We wish you all the best in your first year, and we hope you make the most out of your time here at U of T. We hope to see you at CS Frosh this year!
+
+Original Credits Follow:  
+Lead author Anujan M for coming up with the idea of building this guide, and for researching and writing it in a informative, approachable and enjoyable way. Thanks to Nina from the CS Communications Office and Francois Pitt, Associate Professor, Teaching Stream and Associate   Chair, Undergraduate for reviewing this guide for accuracy and correctness, though as much as we like to say this guide is accurate (yes, disclaimer time) this is by no means an official guide and is written solely from the perspective of students. You should make sure to consult with the UGO or your college registrar to confirm your understanding of these topics and to verify your plans. Also, a special thank you to the 2018-2019 CSSU President David Ansermino for his acceptance of this idea, and for letting Anujan run with it. Also, a huge thanks to co-author Clara S for her fantastic editing of this guide, for sharing real first hand tips and experiences, and for making this guide as comprehensive and grammatically correct as it can be. Without her, this guide would not be as nicely written as it is.  
 
 We wish you all the best in your first year, and we hope you make the most out of your time here at U of T. We hope to see you at CS Frosh this year!
