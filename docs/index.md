@@ -257,24 +257,21 @@ To quote from the department itself:
 
 The requirements as quoted from the ArtSci Calendar are:
 
-```
-Special Requirement
 
-    Students who do not have the Computer Science Admission Guarantee must complete a supplementary application to be considered for the program.
+>Special Requirement
+>Students who do not have the Computer Science Admission Guarantee must complete a supplementary application to be considered for the program.
+>
+>Variable Minimum Grade
+>A minimum grade is needed for entry, and this minimum changes each year depending on available spaces and the number of applicants. The following courses must be completed:
+>CSC148H1 and (CSC165H1 or CSC240H1)  
+>
+>To ensure that students admitted to the program will be successful, applicants with a grade below 70% will not be considered for admission. Obtaining this minimum grade does not guarantee admission to the program.
+>
+>Notes:
+>Requests for admission will be considered in the first program request period only.
+>Due to the limited enrolment nature of this program, students are strongly advised to plan to enroll in backup programs.
+>Students admitted to the program after second or third year will be required to pay retroactive deregulated program fees.
 
-Variable Minimum Grade
-A minimum grade is needed for entry, and this minimum changes each year depending on available spaces and the number of applicants. The following courses must be completed:
-
-    CSC148H1
-    CSC165H1 or CSC240H1
-
-To ensure that students admitted to the program will be successful, applicants with a grade below 70% will not be considered for admission. Obtaining this minimum grade does not guarantee admission to the program.
-
-Notes:
-    Requests for admission will be considered in the first program request period only.
-    Due to the limited enrolment nature of this program, students are strongly advised to plan to enroll in backup programs.
-    Students admitted to the program after second or third year will be required to pay retroactive deregulated program fees.
-```
 
 So after reading this, most students panic and ask: “What's the cutoff?” Well, we wish we could give you an answer, and we wish that the department could give an answer, but it’s not that easy. 
 
