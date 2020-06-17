@@ -2,13 +2,16 @@
 
 2020 Updates
 
-By: Anujan M
+By: Anujan M - Class of 2020, Computer Science Specialist, Host of Room 2250 S3
 
-Authors Note:  
-After the huge success of the original version of the guide I thought it was a good idea to go through a full edit of the guide and bring it up to date with new content (especially since there has been a lot of changes in the program and that made the old guide almost irrelevant). (That also includes GIFs and links to Podcast Episodes hosted by yours truly).  
-As much as I would like to say this guide is accurate (yes, disclaimer time) this is by no means an "official" guide and is written solely from the perspective of students like myself with sources to official documentation. You should make sure to consult with the Undergrad Office or your college registrar to confirm your understanding of these topics and to verify your plans.  
-This is also a **WORK IN PROGRESS** we'll be adding and editing content throughout the summer as new information comes to light.  
-Hope you gain something and if you see something wrong raise an issue or even better change it and make a PR. Thanks for reading and I wish you the best in your CS journey!
+Author's Note:  
+>After the huge success of the original version of the guide I thought it was a good idea to go through a full edit of the guide and bring it up to date with new content (especially since there has been a lot of changes in the program and that made the old guide almost irrelevant). (That also includes GIFs and links to Podcast Episodes hosted by yours truly).  
+>
+>As much as I would like to say this guide is accurate (yes, disclaimer time) this is by no means an "official" guide and is written solely from the perspective of students like myself with sources to official documentation. You should make sure to consult with the Undergrad Office or your college registrar to confirm your understanding of these topics and to verify your plans.  
+>
+>This is also a **WORK IN PROGRESS** we'll be adding and editing content throughout the summer as new information comes to light.  
+>
+>Hope you gain something and if you see something wrong raise an issue or even better change it and make a PR. Thanks for reading and I wish you the best in your CS journey!
 
 Original Credits for 2018 Version  
 By: Anujan M, Clara S, and the CSSU Team
