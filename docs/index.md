@@ -1,6 +1,6 @@
 # First Year's Guide to CS
 
-2020 Updates
+2020 Edition Version 0.9 - Last Edit June 17, 2020
 
 By: Anujan M - Class of 2020, Computer Science Specialist, Host of Room 2250 S3
 
@@ -13,7 +13,7 @@ Author's Note:
 >
 >Hope you gain something and if you see something wrong raise an issue or even better change it and make a PR. Thanks for reading and I wish you the best in your CS journey!
 
-Original Credits for 2018 Version  
+Original Credits for 2018 Version (from which a lot of the content is sourced from)
 By: Anujan M, Clara S, and the CSSU Team
 
 ---
