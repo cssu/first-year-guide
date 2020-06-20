@@ -298,7 +298,9 @@ There are specific admission requirements that first years must complete on top 
 
 >    CSC110Y1 and CSC111H1 or CSC148 and CSC165  
 >    MAT137Y1 or​ MAT157Y1  
->    STA130H1 **Difference**  
+>    **STA130H1** *  
+
+\* This course is the additional course requirement that differentiates CS and Data Science you must take the course in your first year to qualify for the stream benefits
 
 To ensure that students admitted to the program will be successful, applicants will not be considered for admission with a grade lower than 70% in CSC110Y1, CSC148, CSC165, MAT137Y1, and STA130H1, or lower than 77% in CSC111H1. ( MAT157Y1 grades will be adjusted to account for the course's greater difficulty.) Obtaining these minimum grades does not guarantee admission to the program.
 
