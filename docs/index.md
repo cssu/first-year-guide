@@ -1,6 +1,6 @@
 # First Year's Guide to CS
 
-2020 Edition Version 0.9 - Last Edit June 17, 2020
+2020 Edition Version 0.9 - Last Edit June 23, 2020
 
 By: Anujan M - Class of 2020, Computer Science Specialist, Host of Room 2250 S3
 
@@ -9,9 +9,14 @@ Author's Note:
 >
 >As much as I would like to say this guide is accurate (yes, disclaimer time) this is by no means an "official" guide and is written solely from the perspective of students like myself with sources to official documentation. You should make sure to consult with the Undergrad Office or your college registrar to confirm your understanding of these topics and to verify your plans.  
 >
->This is also a **WORK IN PROGRESS** we'll be adding and editing content throughout the summer as new information comes to light.  
+>This is also a **WORK IN PROGRESS**, myself and others will be adding and editing content throughout the summer as new information comes to light.  
 >
->Hope you gain something and if you see something wrong raise an issue or even better change it and make a PR. Thanks for reading and I wish you the best in your CS journey!
+>Also for the first time there will be an audio version of the guide with writer's commentary. I explain the story behind the guide as well as personal anecdotes from my time in CS. It will not be continuously updated.
+>
+>I hope you gain something, whether its information or inspiration, and if you see something wrong raise an issue or even better change it and make a PR. This is an **OPEN SOURCE** document. Thanks for reading and I wish you the best in your CS journey!
+
+## Audio Version (as of June, 2020)
+*Coming Soon*
 
 Original Credits for 2018 Version (from which a lot of the content is sourced from)
 By: Anujan M, Clara S, and the CSSU Team
@@ -20,11 +25,11 @@ By: Anujan M, Clara S, and the CSSU Team
 
 ![helloGif](https://media.giphy.com/media/kiIzRA15EpUsOuiK9J/giphy.gif)
 
-First and foremost, on behalf of the Computer Science Student Union (CSSU), we would like to congratulate students who have received an offer of admission to Computer Science at the University of Toronto St. George campus. (If not, well, we hope you are considering it – or we hope that you get an acceptance!). We're happy to have you!
+First and foremost, on behalf of the Computer Science Student Union (CSSU), we would like to congratulate everyone who has received an offer of admission to Computer Science at the University of Toronto St. George campus. (If not, well, we hope you are considering it – or we hope that you get an acceptance!). We're happy to have you!
 
-This is a collection of Frequently Asked Question (FAQs) which we think all first-year undergraduates (and everyone in the program, in general) should know. This is part of a multi part project to curate resources for the entire CS community some who's links will be in this guide.
+This is a collection of Frequently Asked Questions (FAQs) which we think all first-year undergraduates (and everyone in the program, in general) should know. This is part of a multi faceted project to curate resources for the entire CS community some that will be linked to in this guide.
 
-University can be daunting, especially in your first-year. This year especially with the pandemic affecting all aspects of our lives mentally and physically. We hope this guide gives you some information and tips on how to make sure that you are successful on your first-year here (and we hope this guide makes you laugh along the way). If there is anything you want to add or edit on this guide, please send the CSSU a quick email or make a PR on the Github Repo. So strap in this is pretty long feel free to read in chunks or binge.
+University can be daunting, especially in your first-year. This year especially with the pandemic affecting all aspects of our lives mentally and physically. We hope this guide gives you some information and tips on how to make sure that you are successful on your first-year here (and we hope this guide makes you laugh along the way). If there is anything you want to add or edit on this guide, please send the CSSU a quick email or make a PR on the Github Repo. So strap in this is pretty long so feel free to read it in chunks or binge if thats your style.
 
 ## Table of Contents
 1. [What is the CSSU?](#what-is-the-cssu) (Ice Cream Sandwiches and Video Games)
@@ -49,7 +54,7 @@ CSSU also hosts a variety of events, including Games Night, where students have 
 
 ![smash bros](https://media.giphy.com/media/m8XguqDisAIgag7oqT/giphy.gif)
 
-They also support CS Frosh, which happens at the beginning of the year for students to get to know each other and to be introduced to some great info. Stay tuned for more details later this summer on how we're reworking it for 2020!!
+They also support CS Frosh, which happens at the beginning of the year for students to get to know each other and to be introduced to some great info. Stay tuned for more details later this summer on how its being reworked for 2020!!
 
 ---
 
@@ -91,7 +96,7 @@ This is the most used login you'll need at U of T (after your UTORid login for A
 
 **Help Centre**
 
-As one of the best places for you to get official help in first and second year courses, the CS Help Center which is located in Bahen has TAs and professors ready to help you when you have questions. For a full schedule of when it’s open and who's there, visit [this link] (http://web.cs.toronto.edu/program/ugrad/ug_helpcentre.htm). For upper year courses, you should be able to get the help directly from the course-specific instructors/teaching assistants (TAs), rather than general Help Centre TAs. Getting help is really important, and you should make full use of these hours. **Note for this year it is unknown how the help center will be ran look for updates from your profs.**
+As one of the best places for you to get official help in first and second year courses, the CS Help Center which is located in Bahen has TAs and professors ready to help you when you have questions. For a full schedule of when it’s open and who's there, visit [this link](http://web.cs.toronto.edu/program/ugrad/ug_helpcentre.htm). For upper year courses, you should be able to get the help directly from the course-specific instructors/teaching assistants (TAs), rather than general Help Centre TAs. Getting help is really important, and you should make full use of these hours. **Note for this year it is unknown how the help center will be ran look for updates from your profs.**
 
 
 **Undergraduate Office aka “UGO”**
@@ -175,6 +180,8 @@ There's no real definitive answer to this question. Many people prefer writing w
 #### What type of Laptop/Computer Do I Need?
 
 Before the pandemic this was a question with no definitive answer. Technically, you didn't need one, since you have 24-hour access to the Bahen labs, and can write all of your assignments there. But since COVID-19 has resulted in classes being online (or with limited in-person sessions) for the most part you will need access to a computer. It's recommended that you should get a laptop, since you probably don’t want be stuck in the labs all the time and you can use it when you get on campus. You don’t need the most advanced system in the market, and you should get something that fits your needs and budget. The university has provide a list of minimum and recommended specs for doing remote learning [here](https://www.viceprovoststudents.utoronto.ca/covid-19/tech-requirements-online-learning/) which also include having a webcam available. If you are attending classes from outside of Canada the site also provides important information about VPN access if necessary.
+
+**_ProTip_**: You get free software/benefits from UofT for being a student like Amazon Prime 6 Month Trial and reduced Prime, free movie streaming (in SD) [here click on criterion or Audio Cine Films which contain a lot of recent films](https://mediacommons.library.utoronto.ca/streaming-video). **Free** MS Office [instructions here](https://onesearch.library.utoronto.ca/ic-faq-categories/office-365-proplus), Windows 10 Education aka Windows 10 Pro for students [register here](https://uoft.onthehub.com/WebStore/Security/Signin.aspx?rurl=%2fWebStore%2fOfferingDetails.aspx%3fo%3d499fe89c-cb3a-e511-940f-b8ca3a5db7a1).
 
 #### Online Learning
 
@@ -324,7 +331,10 @@ Another thing which we want to mention is that collaboration and teamwork can he
 
 ### Finding your community
 
-The University of Toronto is a diverse campus with students from around the world and from every walk of life. People are unique and share different beliefs and values. There is a community for everyone. No matter your race, sexuality or religion you should feel like you belong. This is a two way street. Treat people with respect, accept opposing views, show compassion and kindness. The actions you take make our community more inclusive and more diverse. Racism exists, even at an academic institution like UofT, I hope that people reading this will think about this and their actions. If you feel like you don't belong there are groups, communities and good people on campus that can help you. Never lose faith in humanity.  
+The University of Toronto is a diverse campus with students from around the world and from every walk of life. People are unique and share different beliefs and values. There is a community for everyone. No matter your race, sexuality or religion you should feel like you belong. This is a two way street. Treat people with respect, accept opposing views, show compassion and kindness. The actions you take make our community more inclusive and more diverse. Being good to each other comes with action. That means not attacking each other in comments/piazza posts when you disagree or angry, that means not harassing women (or anyone for that matter) in our community, and that even means calling out others when you do see this kind of bad behavior and course correcting.  
+>We all need to work together and listen to each other. Listen, empathize, and act.  
+
+Racism exists, even at an academic institution like UofT. I hope that people reading this will think about these statements and their actions. If you feel like you don't belong remember that there are groups, communities and good people on campus that can help you. Never lose faith in humanity.  
 
 ![inspiration](https://media1.tenor.com/images/57d309947d1ce3cd90a26d136d0a3372/tenor.gif?itemid=17385373)
 
