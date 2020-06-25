@@ -62,19 +62,19 @@ They also support CS Frosh, which happens at the beginning of the year for stude
 
 **ACORN**
 
-[ACORN](acorn.utoronto.ca) is your one stop shop for all the official things you need to do. From enrolling in courses and accessing your final grades to finding your tuition bills, ACORN is your go to site.
+[ACORN](https://acorn.utoronto.ca) is your one stop shop for all the official things you need to do. From enrolling in courses and accessing your final grades to finding your tuition bills, ACORN is your go to site.
 
 **_ProTip_**: You can plan your courses on ACORN and save them to your "cart", from which you can quickly enrol when it's time to enrol in courses.
 
 
 **QUERCUS** (A.K.A. Portal, or the most unpronounceable name on campus)
 
-[QUERCUS](q.utoronto.ca) is the new system (migration from PORTAL happened in 2018) which most courses use to provide lecture slides, important dates, and course updates (previously, it was called Blackboard and some people still do call it that). You can also submit your assignments, and sometimes access your term marks (tests, quizzes, assignments etc.) through this system. CS courses tend to use their own sites in conjunction with MarkUs (see below), but most other courses are adamant on using it (though some courses use other tools as well, so you should make sure to check the syllabus of each one of your courses to see what they are using). If you've used D2L or Blackboard, then you'll find that QUERCUS is a bit familiar. 
+[QUERCUS](https://q.utoronto.ca) is the new system (migration from PORTAL happened in 2018) which most courses use to provide lecture slides, important dates, and course updates (previously, it was called Blackboard and some people still do call it that). You can also submit your assignments, and sometimes access your term marks (tests, quizzes, assignments etc.) through this system. CS courses tend to use their own sites in conjunction with MarkUs (see below), but most other courses are adamant on using it (though some courses use other tools as well, so you should make sure to check the syllabus of each one of your courses to see what they are using). If you've used D2L or Blackboard, then you'll find that QUERCUS is a bit familiar. 
 
 
 **MarkUs**
 
-[MarkUs](markus.teach.cs.toronto.edu) is where you'll be submitting your work and getting feedback and marks for most (if not all) CS courses. Make sure that you can login to the site as soon as it’s available in order to avoid hassles which will undoubtedly arise if you can't login on the day your assignments are due.
+[MarkUs](https://markus.teach.cs.toronto.edu) is where you'll be submitting your work and getting feedback and marks for most (if not all) CS courses. Make sure that you can login to the site as soon as it’s available in order to avoid hassles which will undoubtedly arise if you can't login on the day your assignments are due.
 
 **_ProTip_**: Always submit assignments early, since the system tends to get overloaded and is known to get extremely slow or even crash during the last few minutes before the deadline. It’s your personal responsibility to submit early, and you should keep in mind that multiple submissions are allowed for most courses. This means only your final submission will be graded, even if you submit various drafts of your work prior to the deadline. This allows you to edit and submit your work as many times as you see fit until the deadline.
 
