@@ -453,10 +453,10 @@ We hope this guide is informative to you, and if you think your peers would bene
 
 We wish you all the best in your first year, and we hope you make the most out of your time here at U of T. We hope to see you at CS Frosh this year!
 
-Reviewers/Contributors for the 2020 Version:
-Lana El Sanyoura: Class of 2020, John H. Moss Scholar, Hello Girl Co-founder
-Chloe Nguyen: 2020 CSSU Treasurer
-Alex Kozin: 2020 CSSU President
+Reviewers/Contributors for the 2020 Version:  
+Lana El Sanyoura: Class of 2020, John H. Moss Scholar, Hello Girl Co-founder  
+Chloe Nguyen: 2020 CSSU Treasurer  
+Alex Kozin: 2020 CSSU President  
 
 Original Credits Follow:  
 Lead author Anujan M for coming up with the idea of building this guide, and for researching and writing it in a informative, approachable and enjoyable way. Thanks to Nina from the CS Communications Office and Francois Pitt, Associate Professor, Teaching Stream and Associate   Chair, Undergraduate for reviewing this guide for accuracy and correctness, though as much as we like to say this guide is accurate (yes, disclaimer time) this is by no means an official guide and is written solely from the perspective of students. You should make sure to consult with the UGO or your college registrar to confirm your understanding of these topics and to verify your plans. Also, a special thank you to the 2018-2019 CSSU President David Ansermino for his acceptance of this idea, and for letting Anujan run with it. Also, a huge thanks to co-author Clara S for her fantastic editing of this guide, for sharing real first hand tips and experiences, and for making this guide as comprehensive and grammatically correct as it can be. Without her, this guide would not be as nicely written as it is.  
