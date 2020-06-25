@@ -1,6 +1,6 @@
 # First Year's Guide to CS
 
-2020 Edition Version 0.9 - Last Edit June 23, 2020
+2020 Edition Version 0.9 - Last Edit June 25, 2020
 
 By: Anujan M - Class of 2020, Computer Science Specialist, Host of Room 2250 S3
 
@@ -25,11 +25,11 @@ By: Anujan M, Clara S, and the CSSU Team
 
 ![helloGif](https://media.giphy.com/media/kiIzRA15EpUsOuiK9J/giphy.gif)
 
-First and foremost, on behalf of the Computer Science Student Union (CSSU), we would like to congratulate everyone who has received an offer of admission to Computer Science at the University of Toronto St. George campus. (If not, well, we hope you are considering it – or we hope that you get an acceptance!). We're happy to have you!
+First and foremost, on behalf of the Computer Science Student Union (CSSU), we would like to congratulate everyone who has received an offer of admission to Computer Science at the University of Toronto St. George campus. (or we hope that you're considering / will get an acceptance). We're happy to have you!
 
 This is a collection of Frequently Asked Questions (FAQs) which we think all first-year undergraduates (and everyone in the program, in general) should know. This is part of a multi faceted project to curate resources for the entire CS community some that will be linked to in this guide.
 
-University can be daunting, especially in your first-year. This year especially with the pandemic affecting all aspects of our lives mentally and physically. We hope this guide gives you some information and tips on how to make sure that you are successful on your first-year here (and we hope this guide makes you laugh along the way). If there is anything you want to add or edit on this guide, please send the CSSU a quick email or make a PR on the Github Repo. So strap in this is pretty long so feel free to read it in chunks or binge if thats your style.
+University can be exciting, but also daunting, especially in your first-year. This year especially with the pandemic affecting all aspects of our lives mentally and physically. We hope this guide gives you some information and tips on how to make sure that you are successful on your first-year here (and we hope this guide makes you laugh along the way). If there is anything you want to add or edit on this guide, please send the CSSU a quick email or make a PR on the Github Repo. So strap in this is pretty long so feel free to read it in chunks or binge if thats your style.
 
 ## Table of Contents
 1. [What is the CSSU?](#what-is-the-cssu) (Ice Cream Sandwiches and Video Games)
@@ -50,7 +50,7 @@ So since this guide is made in coordination with the CSSU, we would like to intr
 
 ![ice-cream sandwich GIF](https://media.giphy.com/media/7FDtvM9nIN6Cs/giphy.gif)
 
-CSSU also hosts a variety of events, including Games Night, where students have the opportunity to socialize with each other over games of all kinds, all night long. They also have lots of video games and consoles in the office, from the Gamecube (for Smash Bros.) to the Switch (Super Smash Bros Ultimate) and an Xbox One and Playstation 3 for you to play with your friends, or make new ones. Feel free to drop by, say hello, and introduce yourself! You can sign-up for their email newsletter that will contain information on upcoming events [here](https://cssu.us10.list-manage.com/subscribe/post?u=987f258df56af54075e2c9696&amp;id=6217e7727d)  
+CSSU also hosts a variety of events, including game nights, pancake breakfasts, town halls, and academic events, where students have the opportunity to socialize with each other over pancakes, video games and stuff that they're interested in. They also have lots of video games and consoles in the office, from the Gamecube (for Smash Bros.) to the Switch (Super Smash Bros Ultimate) and an Xbox One and Playstation 3 for you to play with your friends, or make new ones. Feel free to drop by, say hello, and introduce yourself! You can sign-up for their email newsletter that will contain information on upcoming events [here](https://cssu.us10.list-manage.com/subscribe/post?u=987f258df56af54075e2c9696&amp;id=6217e7727d)  
 
 ![smash bros](https://media.giphy.com/media/m8XguqDisAIgag7oqT/giphy.gif)
 
@@ -69,7 +69,7 @@ They also support CS Frosh, which happens at the beginning of the year for stude
 
 **QUERCUS** (A.K.A. Portal, or the most unpronounceable name on campus)
 
-[QUERCUS](q.utoronto.ca) is the new system (now two years old) which most courses use to provide lecture slides, important dates, and course updates (previously, it was called Blackboard and some people still do call it that). You can also submit your assignments, and sometimes access your term marks (tests, quizzes, assignments etc.) through this system. CS courses tend to use their own sites in conjunction with MarkUs (see below), but most other courses are adamant on using it (though some courses use other tools as well, so you should make sure to check the syllabus of each one of your courses to see what they are using). If you've used D2L or Blackboard, then you'll find that QUERCUS is a bit familiar. 
+[QUERCUS](q.utoronto.ca) is the new system (migration from PORTAL happened in 2018) which most courses use to provide lecture slides, important dates, and course updates (previously, it was called Blackboard and some people still do call it that). You can also submit your assignments, and sometimes access your term marks (tests, quizzes, assignments etc.) through this system. CS courses tend to use their own sites in conjunction with MarkUs (see below), but most other courses are adamant on using it (though some courses use other tools as well, so you should make sure to check the syllabus of each one of your courses to see what they are using). If you've used D2L or Blackboard, then you'll find that QUERCUS is a bit familiar. 
 
 
 **MarkUs**
@@ -91,7 +91,7 @@ Piazza is what many courses use as a course forum, where people can post questio
 The teaching labs refer to not only the actual labs in Bahen, but also to the whole online system through which you are interacting with the department (MarkUs, SSH (_Remote Lab Connections_), PCRS). At the beginning of the year, you'll get an email asking you to set up your Teaching Labs account. It is very important that you: 
 1. don't lose the email  
 2. don't forget the password you set it with.
-This is the most used login you'll need at U of T (after your UTORid login for ACORN). Also know that as a CS student you get access to the labs (and Bahen) 24/7 with your T-Card. For more information about the labs visit [their site](https://www.teach.cs.toronto.edu/)
+This is the most used login you'll need at U of T (after your UTORid login for ACORN). Also know that as a CS student you get access to the labs (and Bahen) 24/7 with your T-Card. For more information about the labs visit [their site](https://www.teach.cs.toronto.edu/), this contains [room numbers for the labs](https://www.teach.cs.toronto.edu/faq.html#GS1) and [status/uptime pages for UofT, teach servers and Markus](https://status.teach.cs.toronto.edu/).
 
 
 **Help Centre**
@@ -134,6 +134,38 @@ For students in-stream there is a special course selection note that is differen
 This means that you must plan your course load accordingly. If your following a typical 5 credit per year full-time course load you would split that as 2.5 credits per term. That is 5 half-year courses per term. (Full Year courses such as MAT137/MAT157 take a half credit per term) CSC110 would take 2 of those 5 spots leaving 3 electives (1 which would be taken up by MAT137/MAT157). In the spring semester 1 spot is taken by CSC111 and 1 by the math course leaving 3 electives. Below is a sample look at a timetable that summarizes this.
 
 ![Sample Timetable](timetable.png)
+
+#### Course Planning Tools/Things to know
+
+There are a lot of areas in CS and a lot of courses that range from theory to networking to graphics and everything in between. [Courseography](https://courseography.cdf.toronto.edu/graph) is an open-source project started by Prof. David Liu that charts out all the CS courses and program areas with their prerequisites. You could look at what upper year courses interest you and take their necessary prerequisites. Note that the course offerings have not been updated to reflect the new courses for 2020 school year (as of publishing) and as always the [calendar](https://fas.calendar.utoronto.ca/section/Computer-Science) is the place for the most up to date and official information.
+
+##### Whats a Focus?
+
+Focuses are available for students in the specialist (for designation). Major students use these as a guide for seeing what area's exist and relevant courses that relate to certain areas. They are not mandatory and can be added at any time as long as your in the specialist and have taken the required courses. 
+
+##### Breath Courses
+
+To get your degree at UofT on top of completing 20 Credits, a Specialist or 2 Majors, or 1 Major + 2 Minors, you must complete Breath Requirements:
+
+The Breadth Requirement can be completed in one of two ways: (a) at least 1.0 credit in each of 4 of the 5 categories below, or (b) at least 1.0 credit in each of any 3 of the 5 categories, and at least 0.5 credit in each of the other 2 categories.
+1. Creative and Cultural Representations
+2. Thought, Belief, and Behaviour
+3. Society and Its Institutions
+4. Living Things and Their Environment
+5. The Physical and Mathematical Universes
+
+The good news is that Category 5 is automatically covered by your mandatory CS courses. The other categories encourages you to explore other fields and areas of interest. First Year is a great time to explore with other fields but especially useful due to First Year Seminars.
+
+These seminars are small group courses that focus on specific topics and interests. You can find a full list [here](https://fas.calendar.utoronto.ca/section/First-Year-Foundations). But here are some of the courses that jumped out to me (Note I haven't taken any of these so don't take it as a endorsement, find one that fits your interests).
+
+- WDW153H1 - Popular Culture Today I: Issues and Perspectives and  WDW154H1 - Popular Culture Today II: Special Topics 
+- WDW196H1 - From Rayguns to Light Sabers: Science Fiction in Contemporary Culture 
+- VIC112H1 - Puzzles, Discovery and the Human Imagination 
+- SMC198H1 - How to Study Video Games 
+- NEW103H1 - Digital Technology and Society
+- CSC197H1 - What, Who, How: Privacy in the Age of Big Data Collection 
+
+Who knows from taking a course outside your field you might find something that interests you enough for further study.
 
 ## Course Tips
 
@@ -271,7 +303,7 @@ The requirements as quoted from the ArtSci Calendar are:
 >Special Requirement
 >Students who do not have the Computer Science Admission Guarantee must complete a supplementary application to be considered for the program.
 >
->Variable Minimum Grade
+>Variable Minimum Grade:  
 >A minimum grade is needed for entry, and this minimum changes each year depending on available spaces and the number of applicants. The following courses must be completed:
 >CSC148H1 and (CSC165H1 or CSC240H1)  
 >
@@ -334,7 +366,7 @@ Another thing which we want to mention is that collaboration and teamwork can he
 The University of Toronto is a diverse campus with students from around the world and from every walk of life. People are unique and share different beliefs and values. There is a community for everyone. No matter your race, sexuality or religion you should feel like you belong. This is a two way street. Treat people with respect, accept opposing views, show compassion and kindness. The actions you take make our community more inclusive and more diverse. Being good to each other comes with action. That means not attacking each other in comments/piazza posts when you disagree or angry, that means not harassing women (or anyone for that matter) in our community, and that even means calling out others when you do see this kind of bad behavior and course correcting.  
 >We all need to work together and listen to each other. Listen, empathize, and act.  
 
-Racism exists, even at an academic institution like UofT. I hope that people reading this will think about these statements and their actions. If you feel like you don't belong remember that there are groups, communities and good people on campus that can help you. Never lose faith in humanity.  
+Unfortunately, racism and prejudice exists, even at an academic institution like UofT. I hope that people reading this will think about these statements and their actions. If you feel like you don't belong remember that there are groups, communities and good people on campus that can help you. Never lose faith in humanity.  
 
 ![inspiration](https://media1.tenor.com/images/57d309947d1ce3cd90a26d136d0a3372/tenor.gif?itemid=17385373)
 
@@ -354,7 +386,9 @@ Also, do take a look at applying to be a First-year Representative here at the C
 
 There are also lots of events which you can attend and participate in – follow us on Facebook and Instagram to get updates on all the events which the CSSU runs! 
 
-There are a lot of hackathons which you can join (for those of you who don’t know what a hackathon is, it’s basically a 1-3 day event where you and your team get together to build something, like an app which solves a real-world problem, or just something which you think is really cool in general - and you can win prizes for it and get free food!!!) Its free about 95% of the time, and you get the opportunity to meet lots of company reps. UofTHacks is our premier hackathon, so be on the lookout for more details later this year. Also, check out [MLH](mlh.com) for a full list of hackathons both in Canada and around the world (A lot of the US ones are popular as well, if you’re comfortable with going to the United States for a weekend). Remember, you don’t have to be experienced to go attend a hackathon - there are lots of workshops offered throughout these events, and you can always just go for the experience, which we can confirm is awesome.
+##### Hackathons
+
+For those of you who don’t know what a hackathon is, it’s basically a 1-3 day event where you and your team get together to build something, like an app which solves a real-world problem, or just something which you think is really cool in general - and you can win prizes for it, learn new technologies and get free food!!! There are a lot of hackathons which you can join. Its free about 95% of the time, and you get the opportunity to meet lots of company reps and students from around the globe. UofTHacks is our premier hackathon (thats hosted on campus), so be on the lookout for more details later this year. Also, check out [MLH](mlh.com) for a full list of hackathons both in Canada and around the world (A lot of the US ones are popular as well, if you’re comfortable with going to the United States for a weekend). Remember, you don’t have to be experienced to go attend a hackathon - there are lots of workshops offered throughout these events, and you can always just go for the experience, which we can confirm is awesome.
 
 ![if your not making moves](https://media1.tenor.com/images/b52e33167d9104c39219c9d9ba90b2b2/tenor.gif?itemid=16684096)
 
@@ -418,6 +452,11 @@ We would like to thank all of the people who helped contribute to this guide, ma
 We hope this guide is informative to you, and if you think your peers would benefit from it too, please feel free to share it with them. If you have any suggestions or comments, feel free to email the CSSU [here](cssu@teach.cs.toronto.edu) or make a pull request/issue on the page in Github [here](https://github.com/cssu/first-year-guide)
 
 We wish you all the best in your first year, and we hope you make the most out of your time here at U of T. We hope to see you at CS Frosh this year!
+
+Reviewers/Contributors for the 2020 Version:
+Lana El Sanyoura: Class of 2020, John H. Moss Scholar, Hello Girl Co-founder
+Chloe Nguyen: 2020 CSSU Treasurer
+Alex Kozin: 2020 CSSU President
 
 Original Credits Follow:  
 Lead author Anujan M for coming up with the idea of building this guide, and for researching and writing it in a informative, approachable and enjoyable way. Thanks to Nina from the CS Communications Office and Francois Pitt, Associate Professor, Teaching Stream and Associate   Chair, Undergraduate for reviewing this guide for accuracy and correctness, though as much as we like to say this guide is accurate (yes, disclaimer time) this is by no means an official guide and is written solely from the perspective of students. You should make sure to consult with the UGO or your college registrar to confirm your understanding of these topics and to verify your plans. Also, a special thank you to the 2018-2019 CSSU President David Ansermino for his acceptance of this idea, and for letting Anujan run with it. Also, a huge thanks to co-author Clara S for her fantastic editing of this guide, for sharing real first hand tips and experiences, and for making this guide as comprehensive and grammatically correct as it can be. Without her, this guide would not be as nicely written as it is.  
