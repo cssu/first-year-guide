@@ -13,6 +13,8 @@ Author's Note:
 >
 >Also for the first time there will be an audio version of the guide with writer's commentary. I explain the story behind the guide as well as personal anecdotes from my time in CS. It will not be continuously updated.
 >
+>When your done reading please fill out [this feedback form](https://docs.google.com/forms/d/e/1FAIpQLSdrkUHiOre3J1g1213M7fAM9MNT5SPGd8VUNVgyZmujAnyKAA/viewform?usp=sf_link) to give me and the team valuable feedback.
+>
 >I hope you gain something, whether its information or inspiration, and if you see something wrong raise an issue or even better change it and make a PR. This is an **OPEN SOURCE** document. Thanks for reading and I wish you the best in your CS journey!
 
 ## Audio Version (as of June, 2020)
@@ -449,7 +451,9 @@ Well, you made it to the end of the guide! If you read all of it, congratulation
 
 We would like to thank all of the people who helped contribute to this guide, making this a possibility.
 
-We hope this guide is informative to you, and if you think your peers would benefit from it too, please feel free to share it with them. If you have any suggestions or comments, feel free to email the CSSU [here](cssu@teach.cs.toronto.edu) or make a pull request/issue on the page in Github [here](https://github.com/cssu/first-year-guide)
+We hope this guide is informative to you, and if you think your peers would benefit from it too, please feel free to share it with them. If you have any suggestions or comments, feel free to email the CSSU [here](cssu@teach.cs.toronto.edu) or make a pull request/issue on the page in Github [here](https://github.com/cssu/first-year-guide)  
+
+Also please fill out [this feedback form](https://docs.google.com/forms/d/e/1FAIpQLSdrkUHiOre3J1g1213M7fAM9MNT5SPGd8VUNVgyZmujAnyKAA/viewform?usp=sf_link) to give us valuable feedback.
 
 We wish you all the best in your first year, and we hope you make the most out of your time here at U of T. We hope to see you at CS Frosh this year!
 
