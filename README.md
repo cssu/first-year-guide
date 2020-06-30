@@ -18,8 +18,9 @@ Author's Note:
 >I hope you gain something, whether its information or inspiration, and if you see something wrong raise an issue or even better change it and make a PR. This is an **OPEN SOURCE** document. Thanks for reading and I wish you the best in your CS journey!
 
 ## Audio Version with Writer's Commentary (recorded on June 29, 2020)
-[Youtube](https://www.youtube.com/watch?v=TkC2dLz30NU)
+[Youtube](https://www.youtube.com/watch?v=TkC2dLz30NU)  
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/TkC2dLz30NU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+
 
 [Spotify]()  
 Coming Soon
