@@ -1,6 +1,6 @@
 # First Year's Guide to CS
 
-2020 Edition Version 0.9 - Last Edit June 25, 2020
+2020 Edition Version 0.9 - Last Edit June 30, 2020
 
 By: Anujan M - Class of 2020, Computer Science Specialist, Host of Room 2250 S3
 
@@ -11,14 +11,18 @@ Author's Note:
 >
 >This is also a **WORK IN PROGRESS**, myself and others will be adding and editing content throughout the summer as new information comes to light.  
 >
->Also for the first time there will be an audio version of the guide with writer's commentary. I explain the story behind the guide as well as personal anecdotes from my time in CS. It will not be continuously updated.
+>Also for the first time there is an audio version of the guide with writer's commentary from yours truly. I explain the story behind the guide as well as personal anecdotes from my time in CS. It will not be continuously updated.
 >
 >When your done reading please fill out [this feedback form](https://docs.google.com/forms/d/e/1FAIpQLSdrkUHiOre3J1g1213M7fAM9MNT5SPGd8VUNVgyZmujAnyKAA/viewform?usp=sf_link) to give me and the team valuable feedback.
 >
 >I hope you gain something, whether its information or inspiration, and if you see something wrong raise an issue or even better change it and make a PR. This is an **OPEN SOURCE** document. Thanks for reading and I wish you the best in your CS journey!
 
-## Audio Version (as of June, 2020)
-*Coming Soon*
+## Audio Version with Writer's Commentary (recorded on June 29, 2020)
+[Youtube](https://www.youtube.com/watch?v=TkC2dLz30NU)
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/TkC2dLz30NU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+
+[Spotify]()  
+Coming Soon
 
 Original Credits for 2018 Version (from which a lot of the content is sourced from)
 By: Anujan M, Clara S, and the CSSU Team
