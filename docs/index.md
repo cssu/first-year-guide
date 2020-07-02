@@ -21,7 +21,6 @@ Author's Note:
 [Youtube](https://www.youtube.com/watch?v=TkC2dLz30NU)  
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/TkC2dLz30NU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
-
 [Spotify]()  
 Coming Soon
 
@@ -381,7 +380,7 @@ Unfortunately, racism and prejudice exists, even at an academic institution like
 
 ## How to Get Involved
 
-Having a school/life balance is especially important when you’re in university. While there may be an immense pressure from academics, you should make sure you give time to yourself as well. You can check out this huge list of clubs and student groups which you can join [check this link](https://www.ulife.utoronto.ca/), or visit the clubs fair during the first week of classes. For more CS related clubs, do check our list of CS clubs [here](https://cssu.ca/clubs/). 
+Having a school/life balance is especially important when you’re in university. While there may be an immense pressure from academics, you should make sure you give time to yourself as well. You can check out this huge list of clubs and student groups which you can join [check this link](https://www.ulife.utoronto.ca/), or visit the clubs fair during the first week of classes. For more CS related clubs, do check our list of CS clubs [here](https://github.com/cssu/cssu.ca/tree/2efa9bf9a1ab898d6305d3253be58a6994505201/_posts/clubs) (it will be updated soon). 
 
 To hear about experiences from two clubs WICS and UTCG take a listen to these two episodes of Room 2250:  
 [WICS](https://open.spotify.com/episode/0miTXJpfrMTo1XsnRjh4yQ?si=xC03o9NUSb-U-eBb4gnapg)  
