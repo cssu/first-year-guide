@@ -1,6 +1,6 @@
 # First Year's Guide to CS
 
-2020 Edition Version 0.9 - Last Edit June 30, 2020
+2020 Edition Version 1.0 - Last Edit July 7, 2020
 
 By: Anujan M - Class of 2020, Computer Science Specialist, Host of Room 2250 S3
 
@@ -19,10 +19,10 @@ Author's Note:
 
 ## Audio Version with Writer's Commentary (recorded on June 29, 2020)
 [Youtube](https://www.youtube.com/watch?v=TkC2dLz30NU)  
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/TkC2dLz30NU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+<iframe width="100%" height="315" src="https://www.youtube-nocookie.com/embed/TkC2dLz30NU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
-[Spotify]()  
-Coming Soon
+[Spotify](https://open.spotify.com/episode/0HF43I3QWW4psRRjYyCjq7)  
+<iframe src="https://open.spotify.com/embed-podcast/episode/0HF43I3QWW4psRRjYyCjq7" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 Original Credits for 2018 Version (from which a lot of the content is sourced from)
 By: Anujan M, Clara S, and the CSSU Team
