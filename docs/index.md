@@ -1,6 +1,6 @@
 # First Year's Guide to CS
 
-2020 Edition Version 1.0 - Last Edit July 7, 2020
+2020 Edition Version 1.1 - Last Edit July 12, 2020
 
 By: Anujan M - Class of 2020, Computer Science Specialist, Host of Room 2250 S3
 
@@ -19,10 +19,8 @@ Author's Note:
 
 ## Audio Version with Writer's Commentary (recorded on June 29, 2020)
 [Youtube](https://www.youtube.com/watch?v=TkC2dLz30NU)  
-<iframe width="100%" height="315" src="https://www.youtube-nocookie.com/embed/TkC2dLz30NU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
 [Spotify](https://open.spotify.com/episode/0HF43I3QWW4psRRjYyCjq7)  
-<iframe src="https://open.spotify.com/embed-podcast/episode/0HF43I3QWW4psRRjYyCjq7" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 Original Credits for 2018 Version (from which a lot of the content is sourced from)
 By: Anujan M, Clara S, and the CSSU Team
@@ -35,7 +33,7 @@ First and foremost, on behalf of the Computer Science Student Union (CSSU), we w
 
 This is a collection of Frequently Asked Questions (FAQs) which we think all first-year undergraduates (and everyone in the program, in general) should know. This is part of a multi faceted project to curate resources for the entire CS community some that will be linked to in this guide.
 
-University can be exciting, but also daunting, especially in your first-year. This year especially with the pandemic affecting all aspects of our lives mentally and physically. We hope this guide gives you some information and tips on how to make sure that you are successful on your first-year here (and we hope this guide makes you laugh along the way). If there is anything you want to add or edit on this guide, please send the CSSU a quick email or make a PR on the Github Repo. So strap in this is pretty long so feel free to read it in chunks or binge if thats your style.
+University can be exciting, but also daunting, especially in your first-year. This year especially with the pandemic affecting all aspects of our lives mentally and physically. We hope this guide gives you some information and tips on how to make sure that you are successful on your first-year here (and we hope this guide makes you laugh along the way). If there is anything you want to add or edit on this guide, please send the CSSU a quick email or make a PR on the [Github Repo](https://github.com/cssu/first-year-guide). So strap in this is pretty long so feel free to read it in chunks or binge if thats your style.
 
 ## Table of Contents
 1. [What is the CSSU?](#what-is-the-cssu) (Ice Cream Sandwiches and Video Games)
@@ -260,7 +258,7 @@ So you’ve gotten into the courses you like, and you’ve planned out your time
 
 5. **Assignments**
 
-   When it comes to assignments, don’t start the day before – this doesn’t only make you extremely stressed, but also gives you no time to ask questions about the assignments if you get stuck. Start early, make a list of questions to ask, and go to office hours to get those questions cleared up. Also, don’t copy off of other students – plagiarism is bad, like – it's [serious business](http://www.artsci.utoronto.ca/osai/The-rules/what-is-academic-misconduct). The department has very high-tech tools to catch you, and they will. It's never worth it. If something comes up and you need help, talk to your prof and they will try their best to help you. 
+   When it comes to assignments, don’t start the day before – this doesn’t only make you extremely stressed, but also gives you no time to ask questions about the assignments if you get stuck. Start early, make a list of questions to ask, and go to office hours to get those questions cleared up. Also, don’t copy off of other students – plagiarism is bad, like – it's [serious business](https://www.artsci.utoronto.ca/current/academic-advising-and-support/student-academic-integrity). The department has very high-tech tools to catch you, and they will. It's never worth it. If something comes up and you need help, talk to your prof and they will try their best to help you. 
 
    Also, make sure that your code runs on the lab computers (this may sound crazy, but people have submitted assignments that error out because of the following two things):
    1. They didn’t submit the right file or it had an error, or
@@ -394,7 +392,7 @@ There are also lots of events which you can attend and participate in – follow
 
 ##### Hackathons
 
-For those of you who don’t know what a hackathon is, it’s basically a 1-3 day event where you and your team get together to build something, like an app which solves a real-world problem, or just something which you think is really cool in general - and you can win prizes for it, learn new technologies and get free food!!! There are a lot of hackathons which you can join. Its free about 95% of the time, and you get the opportunity to meet lots of company reps and students from around the globe. UofTHacks is our premier hackathon (thats hosted on campus), so be on the lookout for more details later this year. Also, check out [MLH](mlh.com) for a full list of hackathons both in Canada and around the world (A lot of the US ones are popular as well, if you’re comfortable with going to the United States for a weekend). Remember, you don’t have to be experienced to go attend a hackathon - there are lots of workshops offered throughout these events, and you can always just go for the experience, which we can confirm is awesome.
+For those of you who don’t know what a hackathon is, it’s basically a 1-3 day event where you and your team get together to build something, like an app which solves a real-world problem, or just something which you think is really cool in general - and you can win prizes for it, learn new technologies and get free food!!! There are a lot of hackathons which you can join. Its free about 95% of the time, and you get the opportunity to meet lots of company reps and students from around the globe. UofTHacks is our premier hackathon (thats hosted on campus), so be on the lookout for more details later this year. Also, check out [MLH](mlh.io) for a full list of hackathons both in Canada and around the world (A lot of the US ones are popular as well, if you’re comfortable with going to the United States for a weekend). Remember, you don’t have to be experienced to go attend a hackathon - there are lots of workshops offered throughout these events, and you can always just go for the experience, which we can confirm is awesome.
 
 ![if your not making moves](https://media1.tenor.com/images/b52e33167d9104c39219c9d9ba90b2b2/tenor.gif?itemid=16684096)
 
