@@ -85,7 +85,7 @@ They also support CS Frosh, which happens at the beginning of the year for stude
 
 **Piazza**
 
-Piazza is what many courses use as a course forum, where people can post questions and get answers from classmates and even professors/TAs. Some courses, however, don’t use Piazza and instead use Discourse or the Quercus discussion boards. These are good resources for finding answers to frequently sought out clarifications. 
+Piazza is what many courses use as a course forum, where people can post questions and get answers from classmates and even professors/TAs. Some courses, however, don’t use Piazza and instead use Discourse or the Quercus discussion boards. These are good resources for finding answers to frequently sought out clarifications. Note that email notifications are set on by default for every post and they can be pretty annoying. Go into the settings and pick email settings that fit you.
 
 **_ProTip_**: Remember to search your question before posting it on Piazza, because it is very likely that one of your classmates will have already asked that question earlier. Also profs really don't want to answer the same question 5 million times.
 
@@ -125,7 +125,7 @@ Click on the title to watch the video on Youtube (It does have subtitles so yay)
 
 [**Calvin’s Insider Tips**](https://www.youtube.com/watch?v=RW_Mr85HFto)
 
-A good tip from u/zyjerry: You can access course evaluations submitted by past students for more courses on [Quercus](q.utoronto.ca). Just have to login (with your joinID which will soon become your UTORid) and select course evaluations from the drop down menu. You cannot see specific comments written by students, but you can see the numerical stats. Great way to learn about electives.
+A good tip: You can access course evaluations submitted by past students for more courses on [Quercus](q.utoronto.ca). Just have to login (with your joinID which will soon become your UTORid) and select course evaluations from the drop down menu. You cannot see specific comments written by students, but you can see the numerical stats. Great way to learn about electives. (From u/zyjerry on Reddit)
 
 For more important videos with more tips and information about university and course enrollment check out the ArtSci Youtube channel [here](https://www.youtube.com/channel/UCXRrb_NqDU5IN2ensLpWbcg/videos) and for an interview with Lana about her achievements and advice check out [this episode of Room 2250](https://open.spotify.com/episode/3HZ6rqlLT1n07o1Rn2xLzQ).
 
@@ -402,7 +402,7 @@ For those of you who don’t know what a hackathon is, it’s basically a 1-3 da
 
 So yes, everyone wants to get some experience in “the real world” and make money – uni is expensive, and living in Toronto is expensive. So, a job which actually relates to your studies checks off all those boxes. There is a wide range of job opportunities which you can consider. As a first-year student, you should definitely look at some of the major company internships that are dedicated to first- and second-year students: Google’s Engineering Practicum and Microsoft Explore are two of the bigger programs. Also, startups are a great way to get into the door and get some experience (though do your due diligence, because unpaid internships are very uncommon in CS, so make sure you know what you’re getting into before committing). For good interview questions prep, read “Cracking the Coding Interview” (CTCI), as it’s very informative and has lots of great problems in it. The CSSU has made another Github Repo with job resources and tips [here](https://github.com/cssu/job-resources).
 
-If industry is not your cup of tea, then there are a lot of research opportunities for students if you are persistent enough to pursue them. After your first year, there are second-year research programs run by the Faculty of Arts and Science [click for more details](https://www.artsci.utoronto.ca/current/academics/research-opportunities/research-opportunities-program) where you can get real research experience and a course credit, either in the summer after first year, or during your second-year. There are also a lot of open source projects which you can contribute to, both at U of T (PyTA, MarkUs…) and outside of university (Google’s Summer of Code is a great place to find open source projects, and Google pays students during the summer for working with them).
+If your interested in doing Computer Science research, then there are a lot of research opportunities for students if you are persistent enough to pursue them. UofT is famous for their researchers and the research and you'll be with some of the best researchers in the field. Research is not just for students going for graduate school as companies are now researching in fields as well. After your first year, there are second-year research programs run by the Faculty of Arts and Science [click for more details](https://www.artsci.utoronto.ca/current/academics/research-opportunities/research-opportunities-program) where you can get real research experience and a course credit, either in the summer after first year, or during your second-year. There are also a lot of open source projects which you can contribute to, both at U of T (PyTA, MarkUs…) and outside of university (Google’s Summer of Code is a great place to find open source projects, and Google pays students during the summer for working with them).
 
 For more information on undergrad research listen to Room 2250's Episode on [Research with Prof. Jacobson](https://open.spotify.com/episode/21sur5j3l2h23IFP5E0Fp4).
 
@@ -425,7 +425,7 @@ Click on any of the links to go there:
 - [Signup for the CSSU Newsletter](https://cssu.us10.list-manage.com/subscribe/post?u=987f258df56af54075e2c9696&amp;id=6217e7727d)
 - Also, read the department emails that you get as they have awesome information.
 
-**_Disclaimer_**: On Reddit, the most vocal accounts often tend to be those of students who are misinformed. You can still find lots of good information and discussions on the UofT subreddit, but you need to learn how to filter through the misinformed comments and avoid the trolls. Always make sure you are well informed.
+**_Disclaimer_**: On Reddit (and any other social media platform to be honest), the most vocal accounts often tend to be those of students who are misinformed. You can still find lots of good information and discussions on the UofT subreddit (or any platform), but you need to learn how to filter through the misinformed comments and avoid the trolls. Always make sure you are well informed and practice good judgement. You win or you learn.
 
 ---
 
