@@ -58,7 +58,7 @@ CSSU also hosts a variety of events, including game nights, pancake breakfasts, 
 
 ![smash bros](https://media.giphy.com/media/m8XguqDisAIgag7oqT/giphy.gif)
 
-They also support CS Frosh, which happens at the beginning of the year for students to get to know each other and to be introduced to some great info. Stay tuned for more details later this summer on how its being reworked for 2020!!
+They also support CS Orientation, which happens at the beginning of the year for students to get to know each other and to be introduced to some great info. Stay tuned for more details later this summer on how its being reworked for 2020!!
 
 ---
 
@@ -111,7 +111,7 @@ For all your official program questions and concerns, make your way up to the 4t
 
 ## Course Enrollment
 
-So the first rule of CS is to be lazy (when coding) and to avoid remaking the wheel (or the print statement). Since the Faculty of Arts & Science has already videotaped, asked, and subtitled videos on how course enrollment works and on great tips for University, we are just going to link them here. (These were made 2 years ago but the advice still holds) These star some of the best CS students we’ve ever had the pleasure of knowing, and their advice is actually really great. Stars 2020's John H. Moss Scholar, Former CSSU General Council Member, TA, and Frosh Organizer **Lana**; Former CSSU Vice President, UofT Hacks President, and TA **Calvin**; and 2017 Canadian Undergraduate Computer Science Conference co-chair and TA **Felipe**. 
+So the first rule of CS is to be lazy (when coding) and to avoid remaking the wheel (or the print statement). Since the Faculty of Arts & Science has already videotaped, asked, and subtitled videos on how course enrollment works and on great tips for University, we are just going to link them here. (These were made 2 years ago but the advice still holds) These star some of the best CS students we’ve ever had the pleasure of knowing, and their advice is actually really great. Stars 2020's John H. Moss Scholar, Former CSSU General Council Member, TA, and Orientation Organizer **Lana**; Former CSSU Vice President, UofT Hacks President, and TA **Calvin**; and 2017 Canadian Undergraduate Computer Science Conference co-chair and TA **Felipe**. 
 
 Click on the title to watch the video on Youtube (It does have subtitles so yay)
 
@@ -461,7 +461,7 @@ We hope this guide is informative to you, and if you think your peers would bene
 
 Also please fill out [this feedback form](https://docs.google.com/forms/d/e/1FAIpQLSdrkUHiOre3J1g1213M7fAM9MNT5SPGd8VUNVgyZmujAnyKAA/viewform?usp=sf_link) to give us valuable feedback.
 
-We wish you all the best in your first year, and we hope you make the most out of your time here at U of T. We hope to see you at CS Frosh this year!
+We wish you all the best in your first year, and we hope you make the most out of your time here at U of T. We hope to see you at CS Orientation this year!
 
 Reviewers/Contributors for the 2020 Version:  
 Lana El Sanyoura: Class of 2020, John H. Moss Scholar, Hello Girl Co-founder  
@@ -471,4 +471,4 @@ Alex Kozin: 2020 CSSU President
 Original Credits Follow:  
 Lead author Anujan M for coming up with the idea of building this guide, and for researching and writing it in a informative, approachable and enjoyable way. Thanks to Nina from the CS Communications Office and Francois Pitt, Associate Professor, Teaching Stream and Associate   Chair, Undergraduate for reviewing this guide for accuracy and correctness, though as much as we like to say this guide is accurate (yes, disclaimer time) this is by no means an official guide and is written solely from the perspective of students. You should make sure to consult with the UGO or your college registrar to confirm your understanding of these topics and to verify your plans. Also, a special thank you to the 2018-2019 CSSU President David Ansermino for his acceptance of this idea, and for letting Anujan run with it. Also, a huge thanks to co-author Clara S for her fantastic editing of this guide, for sharing real first hand tips and experiences, and for making this guide as comprehensive and grammatically correct as it can be. Without her, this guide would not be as nicely written as it is.  
 
-We wish you all the best in your first year, and we hope you make the most out of your time here at U of T. We hope to see you at CS Frosh this year!
+We wish you all the best in your first year, and we hope you make the most out of your time here at U of T. We hope to see you at CS Orientation this year!
