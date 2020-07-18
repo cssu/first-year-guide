@@ -158,6 +158,8 @@ The Breadth Requirement can be completed in one of two ways: (a) at least 1.0 cr
 4. Living Things and Their Environment
 5. The Physical and Mathematical Universes
 
+The Faculty of Arts and Science has a video visualizing the requirements [here](https://www.youtube.com/watch?v=ZvIGjn1YpUI).
+
 The good news is that Category 5 is automatically covered by your mandatory CS courses. The other categories encourages you to explore other fields and areas of interest. First Year is a great time to explore with other fields but especially useful due to First Year Seminars.
 
 These seminars are small group courses that focus on specific topics and interests. You can find a full list [here](https://fas.calendar.utoronto.ca/section/First-Year-Foundations). But here are some of the courses that jumped out to me (Note I haven't taken any of these so don't take it as a endorsement, find one that fits your interests).
@@ -203,7 +205,7 @@ So yes, you’re thinking  – this is a CS guide! Why is it talking about math 
 
 The courses offered are MAT135/136, MAT137, and MAT157. Either of these will satisfy the program requirements if you are entering from out of stream, but 137 and 157 are more theoretically heavy (and mandatory for those in-stream or wishing to do the Data Science Specialist), and great proof preparatory materials. If you are considering a math specialist, you should take MAT157 since the math specialist only accepts MAT157. Otherwise MAT137 will also prepare you for the level of proof material in CSC165 compared to MAT135/136 which do not cover proofs. MAT137 is also the calculus course which is recommended by the CS department (and is mandatory unless taking 157 for in-stream students). MAT135/136 are more computationally heavy courses which do not help you with proof practice, but they fulfill the program requirements nonetheless.
 
-While we talk about the Math Specialist if your interested in taking a Math Major or Specialist you must take MAT223(Major)/MAT240(Major or Specialist) and MAT224(Major)/MAT247(Major or Specialist) (Linear Algebra I and II) in your first year. For everyone else it is not mandatory to do in first year but you must take at least MAT223 as part of the CS program requirements (most do it in their 2nd year), and some CS 3rd and 4th year courses require it. For more info check out the [math section in the calendar](https://fas.calendar.utoronto.ca/section/Mathematics) for full details.  
+While we talk about the Math Specialist if your interested in taking a Math Major or Specialist you must take MAT223(Major)/MAT240(Major or Specialist) and MAT224(Major)/MAT247(Major or Specialist) (Linear Algebra I and II) in your first year. For everyone else it is not mandatory to do in first year (Edit: The department has made it that MAT223 is recommend to take in first year but this is still not mandatory) but you must take at least MAT223 as part of the CS program requirements (most do it in their 2nd year), and some CS 3rd and 4th year courses require it. For more info check out the [math section in the calendar](https://fas.calendar.utoronto.ca/section/Mathematics) for full details.  
 
 Do your due diligence and remember that if you take a more advanced course, you can normally try it out and drop down to the comparatively less dense math courses in the first 2 weeks (or more) with no penalty (the same doesn’t apply going up in difficulty). If you have any concerns, contact the math department. They have also provided some good prep work for first year calculus [here](https://www.math.toronto.edu/preparing-for-calculus/).
 
@@ -223,7 +225,7 @@ Before the pandemic this was a question with no definitive answer. Technically, 
 
 ![online learning gif](https://media.giphy.com/media/VG294aYN1FbRyhtrz3/giphy.gif)
 
-Due to the pandemic this is a new reality. You may decide (or be forced to) take courses online, (maybe for an entire semester or the year). This is a significant change and needs its own conversation. Online learning may be new for a most of you (you most likely had a bit of experience with it earlier this year). Here are a few tips and tricks to help manage online learning.
+Due to the pandemic this is a new reality. You may decide (or be forced to) take courses online, (maybe for an entire semester or the year). This is a significant change and needs its own conversation. Online learning may be new for a most of you (you most likely had a bit of experience with it earlier this year). Here are a few tips and tricks to help manage online learning. The Faculty of Arts and Science also provides a video explaining the types of online course delivery [here](https://www.youtube.com/watch?v=-BYmCT2ZyRY)
 
 1. Find a workspace that works for you  
    Make sure that you have a space where you can work productively, if needed away from distractions, loud noises and that is comfortable. Having a routine and constant space that is your study space will help to focus and concentrate along with having all your school stuff in one place.
@@ -246,7 +248,7 @@ So you’ve gotten into the courses you like, and you’ve planned out your time
 
 2. **Attend Tutorials**
 
-   As former TAs, we truly believe that tutorials are the best way to check if you know what you’re doing. During tutorials, you can get lots of practice, ask questions, and get instant feedback from your TA and your peers in a smaller group setting. You should take advantage of your TA, in any of the courses that have them. They are paid to help and support you do your best. They also give great advice (cough cough).
+   As former TAs, we truly believe that tutorials are the best way to check if you know what you’re doing. During tutorials, you can get lots of practice, ask questions, and get instant feedback from your TA and your peers in a smaller group setting. Waiting for the TA to ask you questions or find your gaps is going to waste you time. You should take advantage of your TA, in any of the courses that have them. They are paid to help and support you to do your best. They also give great advice (cough cough).
 
 3. **Office Hours**
 
@@ -258,7 +260,7 @@ So you’ve gotten into the courses you like, and you’ve planned out your time
 
 5. **Assignments**
 
-   When it comes to assignments, don’t start the day before – this doesn’t only make you extremely stressed, but also gives you no time to ask questions about the assignments if you get stuck. Start early, make a list of questions to ask, and go to office hours to get those questions cleared up. Also, don’t copy off of other students – plagiarism is bad, like – it's [serious business](https://www.artsci.utoronto.ca/current/academic-advising-and-support/student-academic-integrity). The department has very high-tech tools to catch you, and they will. It's never worth it. If something comes up and you need help, talk to your prof and they will try their best to help you. 
+   When it comes to assignments, don’t start the day before – this doesn’t only make you extremely stressed, but also gives you no time to ask questions about the assignments if you get stuck. Start early, make a list of questions to ask, and go to office hours to get those questions cleared up. Starting early gives you the opportunity to slowly clear up learning gaps and assumptions. Also, don’t copy off of other students – plagiarism is bad, like – it's [serious business](https://www.artsci.utoronto.ca/current/academic-advising-and-support/student-academic-integrity). The department has very high-tech tools to catch you, and they will. It's never worth it. If something comes up and you need help, talk to your prof and they will try their best to help you. 
 
    Also, make sure that your code runs on the lab computers (this may sound crazy, but people have submitted assignments that error out because of the following two things):
    1. They didn’t submit the right file or it had an error, or
@@ -267,7 +269,7 @@ So you’ve gotten into the courses you like, and you’ve planned out your time
    
    So, how do you prevent this? It’s simple – submit early, download your code off of MarkUs to a lab computer, and run it! If it runs in the lab, it will run while grading. Even if it runs on your computer fine, that is not a valid reason for it to run properly while grading – **IT MUST WORK ON THE LAB COMPUTERS AS WELL**. Also, check your language settings on your computer – non-english characters have been known to mess-up the file, rendering it unrunnable on the lab computers (its weird, we know, but you should opt to be safe, rather than sorry).
 
-   Another important thing to keep in mind is the ethics of copyright and code sharing. Most students think that after they have completed their assignments, they can post it on their Githubs and add it to their portfolios. The reason why this might not be such a good idea is because these assignments have a lot of starter code prepared by your professors, and sometimes profs like to reuse these assignments. You should always ask for the permission of your professors before posting your assignments on public platforms like Github. Otherwise, you could be held accountable for plagiarism even if you didn't commit it yourself - as a student taking the same course in later years might find your assignment and copy it.
+   Another important thing to keep in mind is the ethics of copyright and code sharing. Most students think that after they have completed their assignments, they can post it on their Githubs and add it to their portfolios. The reason why this might not be such a good idea is because these assignments have a lot of starter code prepared by your professors. You should always ask for the permission of your professors before posting your assignments on public platforms like Github. Otherwise, you could be held accountable for plagiarism even if you didn't commit it yourself - as a student taking the same course in later years might find your assignment and copy it or worse doing your work on Github but not making it a private repo.
 
 ---
 
