@@ -1,6 +1,6 @@
 # First Year's Guide to CS
 
-2020 Edition Version 1.1 - Last Edit July 12, 2020
+2020 Edition Version 1.1 - Last Edit July 18, 2020
 
 By: Anujan M - Class of 2020, Computer Science Specialist, Host of Room 2250 S3
 
@@ -439,7 +439,9 @@ So CS is a deregulated fee program, so it’s more expensive then "regulated" tu
 
 However, you can still get loans, such as the Ontario Student Assistance Program (OSAP), which is open to Ontario residents who are Canadian citizens or permanent residents. 
 
-You can apply for it and plan out your finances with their financial calculator [here](https://www.ontario.ca/page/osap-ontario-student-assistance-program)
+You can apply for it and plan out your finances with their financial calculator [here](https://www.ontario.ca/page/osap-ontario-student-assistance-program).
+
+Also this is a great time to learn and apply financial literacy principals. Proper financial management skills will help support you during and after your time in university. Making a budget, reading your bills (like your tuition bill on Acorn) and saving will set you up for success. (And even be debt free by the time you graduate). UofT provides a starter article [here](https://undergrad.engineering.utoronto.ca/fees-financial-aid/financial-aid/financial-planning/) and you can find more resources just by searching for it. Also McGill provides a free online courseware for you to learn all about sound financial planning [here](https://mcgillpersonalfinance.com/). 
 
 The good news is that you can qualify for University of Toronto Financial Aid (UTAPS), and the great thing about this program is that you don’t have to do anything after your first-year – it justs uses your OSAP data including your family income and other things (if you are from another province/country check the UTAPS site for instructions on how to apply and criteria). If your OSAP data is low enough, you can get extra money (free money) paid towards your tuition. However, you won’t know this magical amount till late September/early October, though it can be pretty substantial in certain cases ($4,000+ depending on need). 
 
