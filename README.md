@@ -420,6 +420,7 @@ Click on any of the links to go there:
 - [Room 2250 Podcast](https://open.spotify.com/show/3dNTFMwEqbXO7fosklIP0m)
 - [ArtSci Site](http://www.artsci.utoronto.ca/current)
 - [ArtSci Guide to First Year](https://newstudentguide.artsci.utoronto.ca/)
+- [UTSU First Year Handbook](https://utsuhandbook.ca/)
 - [Services and Resources](https://newstudentguide.artsci.utoronto.ca/resources/)
 - [CSSU Resources Github](https://github.com/cssu/)
 - [UofT Reddit](https://www.reddit.com/r/UofT/)
