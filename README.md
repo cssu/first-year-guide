@@ -1,6 +1,6 @@
 # First Year's Guide to CS
 
-2020 Edition Version 1.1 - Last Edit July 18, 2020
+2020 Edition Version 1.2 - Last Edit October 3rd, 2020
 
 By: Anujan M - Class of 2020, Computer Science Specialist, Host of Room 2250 S3
 
@@ -9,13 +9,15 @@ Author's Note:
 >
 >As much as I would like to say this guide is accurate (yes, disclaimer time) this is by no means an "official" guide and is written solely from the perspective of students like myself with sources to official documentation. You should make sure to consult with the Undergrad Office or your college registrar to confirm your understanding of these topics and to verify your plans.  
 >
->This is also a **WORK IN PROGRESS**, myself and others will be adding and editing content throughout the summer as new information comes to light.  
+>This is also a **WORK IN PROGRESS**, myself and others will be adding and editing content as we get the time to.
+>
+>Also if you in highschool and looking for information regarding admissions please check out the artsci admissions page [here](https://www.artsci.utoronto.ca/future) for more details on requirements on top of this guide. While we don't talk about the high school admission process this gives a full look at what the program is and what you should expect as a first year.
 >
 >Also for the first time there is an audio version of the guide with writer's commentary from yours truly. I explain the story behind the guide as well as personal anecdotes from my time in CS. It will not be continuously updated.
 >
 >When your done reading please fill out [this feedback form](https://docs.google.com/forms/d/e/1FAIpQLSdrkUHiOre3J1g1213M7fAM9MNT5SPGd8VUNVgyZmujAnyKAA/viewform?usp=sf_link) to give me and the team valuable feedback.
 >
->I hope you gain something, whether its information or inspiration, and if you see something wrong raise an issue or even better change it and make a PR. This is an **OPEN SOURCE** document. Thanks for reading and I wish you the best in your CS journey!
+>I hope you gain something, whether its information or inspiration, and if you see something wrong raise an issue or even better change it and make a PR. This is an [**OPEN SOURCE**](https://github.com/cssu/first-year-guide) document. Thanks for reading and I wish you the best in your CS journey!
 
 ## Audio Version with Writer's Commentary (recorded on June 29, 2020)
 [Youtube](https://www.youtube.com/watch?v=TkC2dLz30NU)  
@@ -31,7 +33,7 @@ By: Anujan M, Clara S, and the CSSU Team
 
 First and foremost, on behalf of the Computer Science Student Union (CSSU), we would like to congratulate everyone who has received an offer of admission to Computer Science at the University of Toronto St. George campus. (or we hope that you're considering / will get an acceptance). We're happy to have you!
 
-This is a collection of Frequently Asked Questions (FAQs) which we think all first-year undergraduates (and everyone in the program, in general) should know. This is part of a multi faceted project to curate resources for the entire CS community some that will be linked to in this guide.
+This is a collection of Frequently Asked Questions (FAQs) which we think all first-year undergraduates coming into the program (and everyone in the program, in general) should know. This is part of a multi faceted project to curate resources for the entire CS community some that will be linked to in this guide.
 
 University can be exciting, but also daunting, especially in your first-year. This year especially with the pandemic affecting all aspects of our lives mentally and physically. We hope this guide gives you some information and tips on how to make sure that you are successful on your first-year here (and we hope this guide makes you laugh along the way). If there is anything you want to add or edit on this guide, please send the CSSU a quick email or make a PR on the [Github Repo](https://github.com/cssu/first-year-guide). So strap in this is pretty long so feel free to read it in chunks or binge if thats your style.
 
@@ -58,7 +60,7 @@ CSSU also hosts a variety of events, including game nights, pancake breakfasts, 
 
 ![smash bros](https://media.giphy.com/media/m8XguqDisAIgag7oqT/giphy.gif)
 
-They also support CS Orientation, which happens at the beginning of the year for students to get to know each other and to be introduced to some great info. Stay tuned for more details later this summer on how its being reworked for 2020!!
+They also support CS Orientation, which happens at the beginning of the year for students to get to know each other and to be introduced to some great info.
 
 ---
 
@@ -138,6 +140,8 @@ For students in-stream there is a special course selection note that is differen
 This means that you must plan your course load accordingly. If your following a typical 5 credit per year full-time course load you would split that as 2.5 credits per term. That is 5 half-year courses per term. (Full Year courses such as MAT137/MAT157 take a half credit per term) CSC110 would take 2 of those 5 spots leaving 3 electives (1 which would be taken up by MAT137/MAT157). In the spring semester 1 spot is taken by CSC111 and 1 by the math course leaving 3 electives. Below is a sample look at a timetable that summarizes this.
 
 ![Sample Timetable](timetable.png)
+
+Also Professor David Liu did a presentation at CS Orientation 2020 talking all about the program and you can see the VOD [here](https://www.youtube.com/watch?v=SVMjET0Gk3Q).
 
 #### Course Planning Tools/Things to know
 
