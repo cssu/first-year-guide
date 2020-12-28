@@ -203,7 +203,6 @@ Also look on the department’s [page](https://web.cs.toronto.edu/undergraduate/
 
 #### Which Math Course Should I Take?
 
-![math](https://media.giphy.com/media/dJ4vNQ7r72pb4nDhN5/giphy.gif)
 
 So yes, you’re thinking – this is a CS guide! Why is it talking about math courses? Well, Mathematics and Computer Science go hand-in-hand (in particular, CSC165 and all the theory courses have a very mathematical approach). We are very much like our math counterparts on the theoretical side. This is the reason why you will have to pick a calculus course in your first-year, and your options are highly varied. 
 
@@ -365,7 +364,6 @@ Mental health is extremely important, and taking care of yourself should be your
 
 Something that I believe in when things get tough is hope. Sometimes things don't work out exactly as we expect. Things go wrong, bad stuff happens but you should never give up on hope, hope that things will be better someday. Keep being true to your self, work towards your goals and never give up.  
 
-![hope](https://media1.tenor.com/images/4b843218cff5cb57ac61fc1881f47ba1/tenor.gif?itemid=12862483)
 
 Another thing which we want to mention is that collaboration and teamwork can help a lot when it comes to dealing with the pressure of assignments and midterms. Yes, acceptance into the Computer Science program is competitive, but helping each other out and learning from each other goes a long way. Make friends!!! Everyone is scared, stressed out, and just wants to do well. Help each other out, and be kind to one another. Please don’t expect to go solo on all your classes – you are surrounded by some of the brightest students in your year, take advantage of that! University is a lot less stressful if you have like-minded friends to help you along the way.
 
@@ -377,8 +375,6 @@ The University of Toronto is a diverse campus with students from around the worl
 >We all need to work together and listen to each other. Listen, empathize, and act.  
 
 Unfortunately, racism and prejudice exists, even at an academic institution like UofT. I hope that people reading this will think about these statements and their actions. If you feel like you don't belong remember that there are groups, communities and good people on campus that can help you. Never lose faith in humanity.  
-
-![inspiration](https://media1.tenor.com/images/57d309947d1ce3cd90a26d136d0a3372/tenor.gif?itemid=17385373)
 
 ---
 
