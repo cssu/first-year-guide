@@ -1,6 +1,6 @@
 # First Year's Guide to CS
 
-2020 Edition Version 1.2 - Last Edit October 3rd, 2020
+2020 Edition Version 1.21 - Last Edit December 30th, 2020
 
 By: Anujan M - Class of 2020, Computer Science Specialist, Host of Room 2250 S3
 
