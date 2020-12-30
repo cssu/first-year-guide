@@ -9,7 +9,7 @@ Author's Note:
 >
 >As much as I would like to say this guide is accurate (yes, disclaimer time) this is by no means an "official" guide and is written solely from the perspective of students like myself with sources to official documentation. You should make sure to consult with the Undergrad Office or your college registrar to confirm your understanding of these topics and to verify your plans.  
 >
->This is also **WORK IN PROGRESS**, myself and others will be adding and editing content as we get the time to.
+>This is also a **WORK IN PROGRESS**, myself and others will be adding and editing content as we get the time to.
 >
 >Also if you're in high-school and looking for information regarding admissions please check out the ArtSci admissions page [here](https://www.artsci.utoronto.ca/future) for more details on requirements on top of this guide. While we don't talk about the high school admission process this gives a full look at what the program is and what you should expect as a first year.
 >
