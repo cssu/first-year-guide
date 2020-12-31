@@ -1,6 +1,6 @@
 # First Year's Guide to CS
 
-2020 Edition Version 1.2 - Last Edit October 3rd, 2020
+2020 Edition Version 1.21 - Last Edit December 30th, 2020
 
 By: Anujan M - Class of 2020, Computer Science Specialist, Host of Room 2250 S3
 
@@ -11,11 +11,11 @@ Author's Note:
 >
 >This is also a **WORK IN PROGRESS**, myself and others will be adding and editing content as we get the time to.
 >
->Also if you in highschool and looking for information regarding admissions please check out the artsci admissions page [here](https://www.artsci.utoronto.ca/future) for more details on requirements on top of this guide. While we don't talk about the high school admission process this gives a full look at what the program is and what you should expect as a first year.
+>Also if you're in high-school and looking for information regarding admissions please check out the ArtSci admissions page [here](https://www.artsci.utoronto.ca/future) for more details on requirements on top of this guide. While we don't talk about the high school admission process this gives a full look at what the program is and what you should expect as a first year.
 >
 >Also for the first time there is an audio version of the guide with writer's commentary from yours truly. I explain the story behind the guide as well as personal anecdotes from my time in CS. It will not be continuously updated.
 >
->When your done reading please fill out [this feedback form](https://docs.google.com/forms/d/e/1FAIpQLSdrkUHiOre3J1g1213M7fAM9MNT5SPGd8VUNVgyZmujAnyKAA/viewform?usp=sf_link) to give me and the team valuable feedback.
+>When you're done reading please fill out [this feedback form](https://docs.google.com/forms/d/e/1FAIpQLSdrkUHiOre3J1g1213M7fAM9MNT5SPGd8VUNVgyZmujAnyKAA/viewform?usp=sf_link) to give me and the team valuable feedback.
 >
 >I hope you gain something, whether its information or inspiration, and if you see something wrong raise an issue or even better change it and make a PR. This is an [**OPEN SOURCE**](https://github.com/cssu/first-year-guide) document. Thanks for reading and I wish you the best in your CS journey!
 
@@ -31,11 +31,11 @@ By: Anujan M, Clara S, and the CSSU Team
 
 ![helloGif](https://media.giphy.com/media/kiIzRA15EpUsOuiK9J/giphy.gif)
 
-First and foremost, on behalf of the Computer Science Student Union (CSSU), we would like to congratulate everyone who has received an offer of admission to Computer Science at the University of Toronto St. George campus. (or we hope that you're considering / will get an acceptance). We're happy to have you!
+First and foremost, on behalf of the Computer Science Student Union (CSSU), we would like to congratulate everyone who has received an offer of admission to study Computer Science at the University of Toronto St. George campus. (or we hope that you're considering / will get an acceptance). We're happy to have you!
 
-This is a collection of Frequently Asked Questions (FAQs) which we think all first-year undergraduates coming into the program (and everyone in the program, in general) should know. This is part of a multi faceted project to curate resources for the entire CS community some that will be linked to in this guide.
+This is a collection of Frequently Asked Questions (FAQs) which we think all first-year undergraduates coming into the program (and everyone in the program, in general) should know. This is part of a multi-faceted project to curate resources for the entire CS community some that will be linked to in this guide.
 
-University can be exciting, but also daunting, especially in your first-year. This year especially with the pandemic affecting all aspects of our lives mentally and physically. We hope this guide gives you some information and tips on how to make sure that you are successful on your first-year here (and we hope this guide makes you laugh along the way). If there is anything you want to add or edit on this guide, please send the CSSU a quick email or make a PR on the [Github Repo](https://github.com/cssu/first-year-guide). So strap in this is pretty long so feel free to read it in chunks or binge if thats your style.
+University can be exciting, but also daunting, especially in your first-year. This year especially with the pandemic affecting all aspects of our lives mentally and physically. We hope this guide gives you some information and tips on how to make sure that you are successful during your first-year here (and we hope this guide makes you laugh along the way). If there is anything you want to add or edit on this guide, please send the CSSU a quick email or make a PR on the [Github Repo](https://github.com/cssu/first-year-guide). So strap in as this is pretty long so feel free to read it in chunks or binge it if that's your style.
 
 ## Table of Contents
 1. [What is the CSSU?](#what-is-the-cssu) (Ice Cream Sandwiches and Video Games)
@@ -87,7 +87,7 @@ They also support CS Orientation, which happens at the beginning of the year for
 
 **Piazza**
 
-Piazza is what many courses use as a course forum, where people can post questions and get answers from classmates and even professors/TAs. Some courses, however, don’t use Piazza and instead use Discourse or the Quercus discussion boards. These are good resources for finding answers to frequently sought out clarifications. Note that email notifications are set on by default for every post and they can be pretty annoying. Go into the settings and pick email settings that fit you.
+[Piazza](https://piazza.com/) is what many courses use as a course forum, where people can post questions and get answers from classmates and even professors/TAs. Some courses, however, don’t use Piazza and instead use Discourse or the Quercus discussion boards. These are good resources for finding answers to frequently sought out clarifications. Note that email notifications are set on by default for every post and they can be pretty annoying. Go into the settings and pick email settings that fit you.
 
 **_ProTip_**: Remember to search your question before posting it on Piazza, because it is very likely that one of your classmates will have already asked that question earlier. Also profs really don't want to answer the same question 5 million times.
 
@@ -102,7 +102,7 @@ This is the most used login you'll need at U of T (after your UTORid login for A
 
 **Help Centre**
 
-As one of the best places for you to get official help in first and second year courses, the CS Help Center which is located in Bahen has TAs and professors ready to help you when you have questions. For a full schedule of when it’s open and who's there, visit [this link](http://web.cs.toronto.edu/program/ugrad/ug_helpcentre.htm). For upper year courses, you should be able to get the help directly from the course-specific instructors/teaching assistants (TAs), rather than general Help Centre TAs. Getting help is really important, and you should make full use of these hours. **Note for this year it is unknown how the help center will be ran look for updates from your profs.**
+As one of the best places for you to get official help in first and second year courses, the CS Help Center which is located in Bahen has TAs and professors ready to help you when you have questions. For a full schedule of when it’s open and who's there, visit [this link](https://web.cs.toronto.edu/undergraduate/help-centre). For upper year courses, you should be able to get the help directly from the course-specific instructors/teaching assistants (TAs), rather than general Help Centre TAs. Getting help is really important, and you should make full use of these hours. **Note for this year (Fall 2020 - Winter 2021) it is unknown how the help center will be ran look for updates from your profs.**
 
 
 **Undergraduate Office aka “UGO”**
@@ -127,7 +127,7 @@ Click on the title to watch the video on Youtube (It does have subtitles so yay)
 
 [**Calvin’s Insider Tips**](https://www.youtube.com/watch?v=RW_Mr85HFto)
 
-A good tip: You can access course evaluations submitted by past students for more courses on [Quercus](q.utoronto.ca). Just have to login (with your joinID which will soon become your UTORid) and select course evaluations from the drop down menu. You cannot see specific comments written by students, but you can see the numerical stats. Great way to learn about electives. (From u/zyjerry on Reddit)
+A good tip: You can access course evaluations submitted by past students for more courses on [Quercus](https://q.utoronto.ca/courses/48756/external_tools/294). Just have to login (with your joinID which will soon become your UTORid) and select course evaluations from the drop down menu. You cannot see specific comments written by students, but you can see the numerical stats. Great way to learn about electives. (From u/zyjerry on Reddit)
 
 For more important videos with more tips and information about university and course enrollment check out the ArtSci Youtube channel [here](https://www.youtube.com/channel/UCXRrb_NqDU5IN2ensLpWbcg/videos) and for an interview with Lana about her achievements and advice check out [this episode of Room 2250](https://open.spotify.com/episode/3HZ6rqlLT1n07o1Rn2xLzQ).
 
@@ -149,11 +149,11 @@ There are a lot of areas in CS and a lot of courses that range from theory to ne
 
 ##### Whats a Focus?
 
-Focuses are available for students in the specialist (for designation). Major students use these as a guide for seeing what area's exist and relevant courses that relate to certain areas. They are not mandatory and can be added at any time as long as your in the specialist and have taken the required courses. 
+Focuses are available for students in the specialist (for designation). Major students use these as a guide for seeing what areas exist and relevant courses that relate to certain areas. They are not mandatory and can be added at any time as long as you're in the specialist and have taken the required courses. 
 
-##### Breath Courses
+##### Breadth Courses
 
-To get your degree at UofT on top of completing 20 Credits, a Specialist or 2 Majors, or 1 Major + 2 Minors, you must complete Breath Requirements:
+To get your degree at UofT on top of completing 20 Credits, a Specialist or 2 Majors, or 1 Major + 2 Minors, you must complete Breadth Requirements:
 
 The Breadth Requirement can be completed in one of two ways: (a) at least 1.0 credit in each of 4 of the 5 categories below, or (b) at least 1.0 credit in each of any 3 of the 5 categories, and at least 0.5 credit in each of the other 2 categories.
 1. Creative and Cultural Representations
@@ -168,7 +168,7 @@ The good news is that Category 5 is automatically covered by your mandatory CS c
 
 These seminars are small group courses that focus on specific topics and interests. You can find a full list [here](https://fas.calendar.utoronto.ca/section/First-Year-Foundations). But here are some of the courses that jumped out to me (Note I haven't taken any of these so don't take it as a endorsement, find one that fits your interests).
 
-- WDW153H1 - Popular Culture Today I: Issues and Perspectives and  WDW154H1 - Popular Culture Today II: Special Topics 
+- WDW153H1 - Popular Culture Today I: Issues and Perspectives and WDW154H1 - Popular Culture Today II: Special Topics 
 - WDW196H1 - From Rayguns to Light Sabers: Science Fiction in Contemporary Culture 
 - VIC112H1 - Puzzles, Discovery and the Human Imagination 
 - SMC198H1 - How to Study Video Games 
@@ -205,7 +205,7 @@ Also look on the department’s [page](https://web.cs.toronto.edu/undergraduate/
 
 ![math](https://media.giphy.com/media/dJ4vNQ7r72pb4nDhN5/giphy.gif)
 
-So yes, you’re thinking  – this is a CS guide! Why is it talking about math courses? Well, Mathematics and Computer Science go hand-in-hand (in particular, CSC165 and all the theory courses have a very mathematical approach). We are very much like our math counterparts on the theoretical side. This is the reason why you will have to pick a calculus course in your first-year, and your options are highly varied. 
+So yes, you’re thinking – this is a CS guide! Why is it talking about math courses? Well, Mathematics and Computer Science go hand-in-hand (in particular, CSC165 and all the theory courses have a very mathematical approach). We are very much like our math counterparts on the theoretical side. This is the reason why you will have to pick a calculus course in your first-year, and your options are highly varied. 
 
 The courses offered are MAT135/136, MAT137, and MAT157. Either of these will satisfy the program requirements if you are entering from out of stream, but 137 and 157 are more theoretically heavy (and mandatory for those in-stream or wishing to do the Data Science Specialist), and great proof preparatory materials. If you are considering a math specialist, you should take MAT157 since the math specialist only accepts MAT157. Otherwise MAT137 will also prepare you for the level of proof material in CSC165 compared to MAT135/136 which do not cover proofs. MAT137 is also the calculus course which is recommended by the CS department (and is mandatory unless taking 157 for in-stream students). MAT135/136 are more computationally heavy courses which do not help you with proof practice, but they fulfill the program requirements nonetheless.
 
@@ -303,7 +303,7 @@ This is a huge change from prior years where the variable cutoff exists. This ne
 - These two courses (CSC110 and CSC111) are an important base. If you don't find their content to be conceptually appealing, it’s possible that you might not enjoy your upper-year CS courses at U of T as well. These requirements are not there to cut down the number of people, it is hoped that all students in the stream are able to meet the cutoff and proceed in the program if they choose.
 
 To quote from the department itself:
->We anticipate that the vast majority of the students will meet the requirements of the guarantee after first-year and will be admitted to a Computer Science Specialist, Major or Minor.  In fact, if every student meets the admission guarantee conditions then every student will be admitted.
+>We anticipate that the vast majority of the students will meet the requirements of the guarantee after first-year and will be admitted to a Computer Science Specialist, Major or Minor. In fact, if every student meets the admission guarantee conditions then every student will be admitted.
 
 #### Out of Stream
 
