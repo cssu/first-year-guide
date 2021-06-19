@@ -1,6 +1,6 @@
 # First Year's Guide to CS
 
-2020 Edition Version 1.21 - Last Edit December 30th, 2020
+2020 Edition Version 1.22 - Last Edit June 19th, 2021
 
 By: Anujan M - Class of 2020, Computer Science Specialist, Host of Room 2250 S3
 
@@ -9,7 +9,7 @@ Author's Note:
 >
 >As much as I would like to say this guide is accurate (yes, disclaimer time) this is by no means an "official" guide and is written solely from the perspective of students like myself with sources to official documentation. You should make sure to consult with the Undergrad Office or your college registrar to confirm your understanding of these topics and to verify your plans.  
 >
->This is also a **WORK IN PROGRESS**, myself and others will be adding and editing content as we get the time to.
+>This is also a **WORK IN PROGRESS**, myself and others will be adding and editing content as we get the time to. (Currently updating for 2021)
 >
 >Also if you're in high-school and looking for information regarding admissions please check out the ArtSci admissions page [here](https://www.artsci.utoronto.ca/future) for more details on requirements on top of this guide. While we don't talk about the high school admission process this gives a full look at what the program is and what you should expect as a first year.
 >
@@ -65,6 +65,10 @@ They also support CS Orientation, which happens at the beginning of the year for
 ---
 
 ## Common Terms That You Should Know
+
+**In-Stream/Out of Stream**
+
+Basically if you've accepted an offer to computer science at St. George your in CMP1 aka "in-stream". If you've accepted a different program such as Math & Physical Science and you're taking CS courses and want to join the program your considered out of stream. In reality the only difference is the criteria to get into the computer science "program" after your first year. See the later sections for more details.
 
 **ACORN**
 
@@ -133,7 +137,7 @@ For more important videos with more tips and information about university and co
 
 #### **In Stream** Schedule Notes
 
-Visit [here](https://web.cs.toronto.edu/a-new-first-year-experience) for more information about the new courses and the new first year experience.
+Visit [here](https://web.cs.toronto.edu/undergraduate/incoming) for more information about the new courses and the new first year experience.
 
 For students in-stream there is a special course selection note that is different from past years. (Technically its the first time that a course like this has been offered in a fall semester). CSC110Y1 is a 1 semester course but its a full credit course. This means that its the equivalent of 2 normal *half year* courses, there will be double the amount of lecture time and you'll earn a full credit on completion of the course. CSC111 is a normal half year credit course that you'll take in the winter semester.
 
