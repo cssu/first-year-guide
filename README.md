@@ -1,6 +1,6 @@
 # First Year's Guide to CS
 
-2020 Edition Version 1.22 - Last Edit June 19th, 2021
+2021 Edition Version 1.25 - Last Edit Oct 30th, 2021
 
 By: Anujan M - Class of 2020, Computer Science Specialist, Host of Room 2250 S3
 
@@ -15,9 +15,14 @@ Author's Note:
 >
 >Also for the first time there is an audio version of the guide with writer's commentary from yours truly. I explain the story behind the guide as well as personal anecdotes from my time in CS. It will not be continuously updated.
 >
+>Actually we did get an update during CS Orientation 2021 I was tasked to do a 20 min guide update retelling, how that went I'm not really sure you can look at it and it will replace the original audio guide (still with most of the KF references)
+>
 >When you're done reading please fill out [this feedback form](https://docs.google.com/forms/d/e/1FAIpQLSdrkUHiOre3J1g1213M7fAM9MNT5SPGd8VUNVgyZmujAnyKAA/viewform?usp=sf_link) to give me and the team valuable feedback.
 >
 >I hope you gain something, whether its information or inspiration, and if you see something wrong raise an issue or even better change it and make a PR. This is an [**OPEN SOURCE**](https://github.com/cssu/first-year-guide) document. Thanks for reading and I wish you the best in your CS journey!
+
+## CS Orientation 2021 First Year Guide Presentation (Sep 2021)
+
 
 ## Audio Version with Writer's Commentary (recorded on June 29, 2020)
 [Youtube](https://www.youtube.com/watch?v=TkC2dLz30NU)  
@@ -45,7 +50,7 @@ University can be exciting, but also daunting, especially in your first-year. Th
 5. [Program Admission (Formerly Subject POSt)](#admission-to-a-program) (AKA most speculative/invisible monster to terrorize students in all of Canada or even the world that got a rework into a much nicer thing but is still worth paying attention to)
 6. [Mental health](#mental-health) (Really important to read and understand, it's real and we need to talk about it)
 7. [How to get involved?](#how-to-get-involved) (or how to get a balance in your life, have fun and make friends)
-8. [Jobs/Internships/PEY](#jobs-internships-and-pey-co-op) (or how and when to get some real-world experience)
+8. [Jobs/Internships/ASIP(Formally PEY)](#jobs-internships-and-pey-co-op) (or how and when to get some real-world experience)
 9. [Links to Know](#important-links) (KEEP THESE HANDY)
 10. [Finances](#finances) (Why CS costs more and how to reduce these costs)
 11. [Parting Words](#parting-words)
@@ -131,7 +136,7 @@ Click on the title to watch the video on Youtube (It does have subtitles so yay)
 
 [**Calvin’s Insider Tips**](https://www.youtube.com/watch?v=RW_Mr85HFto)
 
-A good tip: You can access course evaluations submitted by past students for more courses on [Quercus](https://q.utoronto.ca/courses/48756/external_tools/294). Just have to login (with your joinID which will soon become your UTORid) and select course evaluations from the drop down menu. You cannot see specific comments written by students, but you can see the numerical stats. Great way to learn about electives. (From u/zyjerry on Reddit)
+A good tip: You can access course evaluations submitted by past students for more courses on [Quercus](https://q.utoronto.ca/courses/48756/external_tools/294). Just have to login (with your joinID which will soon become your UTORid) and select course evaluations from the drop down menu. You cannot see specific comments written by students, but you can see the numerical stats. Great way to learn about electives.
 
 For more important videos with more tips and information about university and course enrollment check out the ArtSci Youtube channel [here](https://www.youtube.com/channel/UCXRrb_NqDU5IN2ensLpWbcg/videos) and for an interview with Lana about her achievements and advice check out [this episode of Room 2250](https://open.spotify.com/episode/3HZ6rqlLT1n07o1Rn2xLzQ).
 
@@ -227,7 +232,7 @@ There's no real definitive answer to this question. Many people prefer writing w
 
 Before the pandemic this was a question with no definitive answer. Technically, you didn't need one, since you have 24-hour access to the Bahen labs, and can write all of your assignments there. But since COVID-19 has resulted in classes being online (or with limited in-person sessions) for the most part you will need access to a computer. It's recommended that you should get a laptop, since you probably don’t want be stuck in the labs all the time and you can use it when you get on campus. You don’t need the most advanced system in the market, and you should get something that fits your needs and budget. The university has provide a list of minimum and recommended specs for doing remote learning [here](https://www.viceprovoststudents.utoronto.ca/covid-19/tech-requirements-online-learning/) which also include having a webcam available. If you are attending classes from outside of Canada the site also provides important information about VPN access if necessary.
 
-**_ProTip_**: You get free software/benefits from UofT for being a student like Amazon Prime 6 Month Trial and reduced Prime, free movie streaming (in SD) [here click on criterion or Audio Cine Films which contain a lot of recent films](https://mediacommons.library.utoronto.ca/streaming-video). **Free** MS Office [instructions here](https://onesearch.library.utoronto.ca/ic-faq-categories/office-365-proplus), Windows 10 Education aka Windows 10 Pro for students [register here](https://uoft.onthehub.com/WebStore/Security/Signin.aspx?rurl=%2fWebStore%2fOfferingDetails.aspx%3fo%3d499fe89c-cb3a-e511-940f-b8ca3a5db7a1).
+**_ProTip_**: You get free software/benefits from UofT for being a student like Amazon Prime 6 Month Trial and reduced Prime, free movie streaming [here click on criterion or Audio Cine Films which contain a lot of recent films](https://mediacommons.library.utoronto.ca/streaming-video). **Free** MS Office [instructions here](https://onesearch.library.utoronto.ca/ic-faq-categories/office-365-proplus), and lots of other free things (Hackathons and Career Fairs are great places to pick up and obtain lots of interesting trinkets).
 
 #### Online Learning
 
@@ -343,7 +348,7 @@ They also ask whats the supplementary given information from what happened the p
 
 For more info visit the [CS Department Admissions Page](http://web.cs.toronto.edu/program/ugrad/admission.htm)
 
-#### *NEW* What if I want to pursue Data Science?
+#### What if I want to pursue Data Science?
 
 Data Science is a recently added specialty that is co-offered by the Department of Statistics and Computer Science. As quoted from the [calendar](https://fas.calendar.utoronto.ca/section/Computer-Science#programs_view-block_2-0) The Data Science Specialist program prepares students for work in the Data Science industry or government and for graduate studies in Data Science, Computer Science, or Statistics. Students in the program will benefit from a range of advanced courses in Computer Science and Statistics offered by the University of Toronto, as well as from a sequence of three integrative courses designed especially for the program.
 
@@ -388,7 +393,7 @@ Unfortunately, racism and prejudice exists, even at an academic institution like
 
 ## How to Get Involved
 
-Having a school/life balance is especially important when you’re in university. While there may be an immense pressure from academics, you should make sure you give time to yourself as well. You can check out this huge list of clubs and student groups which you can join [check this link](https://www.ulife.utoronto.ca/), or visit the clubs fair during the first week of classes. For more CS related clubs, do check our list of CS clubs [here](https://github.com/cssu/cssu.ca/tree/2efa9bf9a1ab898d6305d3253be58a6994505201/_posts/clubs) (it will be updated soon). 
+Having a school/life balance is especially important when you’re in university. While there may be an immense pressure from academics, you should make sure you give time to yourself as well. You can check out this huge list of clubs and student groups which you can join [check this link](https://www.ulife.utoronto.ca/), or visit the clubs fair during the first week of classes. For more CS related clubs, do check our list of CS clubs [here](https://www.cssu.ca/community/). 
 
 To hear about experiences from two clubs WICS and UTCG take a listen to these two episodes of Room 2250:  
 [WICS](https://open.spotify.com/episode/0miTXJpfrMTo1XsnRjh4yQ?si=xC03o9NUSb-U-eBb4gnapg)  
@@ -398,7 +403,7 @@ You might also want to consider joining a FLC (First Year Learning Community). B
 
 Also, do take a look at applying to be a First-year Representative here at the CSSU. You will be responsible for presenting your interests and issues to the CSSU, and for spreading information and updates to your classmates. Alternatively, you can also be a General Council member – check out the main page for more details on how to apply!
 
-There are also lots of events which you can attend and participate in – follow us on Facebook and Instagram to get updates on all the events which the CSSU runs! 
+There are also lots of events which you can attend and participate in – follow us on Facebook, Instagram or Discord to get updates on all the events which the CSSU runs! 
 
 ##### Hackathons
 
@@ -408,16 +413,29 @@ For those of you who don’t know what a hackathon is, it’s basically a 1-3 da
 
 ---
 
-## Jobs, Internships and PEY Co-op
+## Jobs, Internships, TLI, ROP and ASIP (The Variant of PEY Co-op which used to be PEY)
 
-So yes, everyone wants to get some experience in “the real world” and make money – uni is expensive, and living in Toronto is expensive. So, a job which actually relates to your studies checks off all those boxes. There is a wide range of job opportunities which you can consider. As a first-year student, you should definitely look at some of the major company internships that are dedicated to first- and second-year students: Google’s Engineering Practicum and Microsoft Explore are two of the bigger programs. Also, startups are a great way to get into the door and get some experience (though do your due diligence, because unpaid internships are very uncommon in CS, so make sure you know what you’re getting into before committing). For good interview questions prep, read “Cracking the Coding Interview” (CTCI), as it’s very informative and has lots of great problems in it. The CSSU has made another Github Repo with job resources and tips [here](https://github.com/cssu/job-resources).
+So yes, everyone wants to get some experience in “the real world” and make money – uni is expensive, and living in Toronto is expensive. So, a job which actually relates to your studies checks off all those boxes. There is a wide range of job opportunities which you can consider. 
+
+A lot of the big tech companies have dedicated internship programs for first and second year students! They are all very competitive and based in the USA (for now) so keep that in mind. applications for them also aren't all open yet, but they should be by September, so consider applying! 
+- Microsoft Explore
+- Google STEP
+- Facebook University
+- Twitter Academy
+
+But don't just stop there even if you think an internship is above you there is no harm in trying at all. Worse case a rejection, best case a job and a good foot in the door. Make the best of opportunities.
+
+Also, startups are a great way to get into the door and get some experience (though do your due diligence, because unpaid internships are very uncommon in CS, so make sure you know what you’re getting into before committing). For good interview questions prep, read “Cracking the Coding Interview” (CTCI), as it’s very informative and has lots of great problems in it. The CSSU has made another Github Repo with job resources and tips [here](https://github.com/cssu/job-resources).
 
 If your interested in doing Computer Science research, then there are a lot of research opportunities for students if you are persistent enough to pursue them. UofT is famous for their researchers and the research and you'll be with some of the best researchers in the field. Research is not just for students going for graduate school as companies are now researching in fields as well. After your first year, there are second-year research programs run by the Faculty of Arts and Science [click for more details](https://www.artsci.utoronto.ca/current/academics/research-opportunities/research-opportunities-program) where you can get real research experience and a course credit, either in the summer after first year, or during your second-year. There are also a lot of open source projects which you can contribute to, both at U of T (PyTA, MarkUs…) and outside of university (Google’s Summer of Code is a great place to find open source projects, and Google pays students during the summer for working with them).
 
+Add Info about ROP
+
 For more information on undergrad research listen to Room 2250's Episode on [Research with Prof. Jacobson](https://open.spotify.com/episode/21sur5j3l2h23IFP5E0Fp4).
 
-The Professional Experience Year Co-op Program, administered by the Engineering Career Centre, is another option which you can consider after your second-year, or after your third-year of studies. It's basically a 12-16 month paid position where you work at a company (you do have to apply and interview for a position, one won’t be given to you), and get some experience before you complete your studies. For more information about PEY Co-op for computer science, visit [the department page](https://web.cs.toronto.edu/undergraduate/pey) and [the Engineering Career Centre site](http://engineeringcareers.utoronto.ca/work-experience-programs/professional-experience-year-co-op-program-pey-co-op/) for more information and stats.
+<!-- The Professional Experience Year Co-op Program, administered by the Engineering Career Centre, is another option which you can consider after your second-year, or after your third-year of studies. It's basically a 12-16 month paid position where you work at a company (you do have to apply and interview for a position, one won’t be given to you), and get some experience before you complete your studies. For more information about PEY Co-op for computer science, visit [the department page](https://web.cs.toronto.edu/undergraduate/pey) and [the Engineering Career Centre site](http://engineeringcareers.utoronto.ca/work-experience-programs/professional-experience-year-co-op-program-pey-co-op/) for more information and stats. -->
 
+Information about ASIP
 ---
 
 ## Important Links
